@@ -1031,6 +1031,92 @@
     <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
     <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="FoxNews.yt">
+    <display-name lang="en">Fox News Live</display-name>
+  </channel>
+  <programme channel="FoxNews.yt" start="20231101000000 +0000" stop="20231101030000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="FoxNews.yt" start="20231101030000 +0000" stop="20231101060000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="FoxNews.yt" start="20231101060000 +0000" stop="20231101090000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="FoxNews.yt" start="20231101090000 +0000" stop="20231101120000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="FoxNews.yt" start="20231101120000 +0000" stop="20231101150000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="FoxNews.yt" start="20231101150000 +0000" stop="20231101180000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="FoxNews.yt" start="20231101180000 +0000" stop="20231101210000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="FoxNews.yt" start="20231101210000 +0000" stop="20231102000000 +0000">
+    <title lang="en">LiveNOW from FOX</title>
+    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. Raw and unfiltered. No opinion. Experience LiveNOW f...</desc>
+    <icon src="https://i.ytimg.com/vi/3_-jZqsQqdk/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="TimesNow.yt">
+    <display-name lang="en">Times Now Gaza Live</display-name>
+  </channel>
+  <programme channel="TimesNow.yt" start="20231101000000 +0000" stop="20231101030000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TimesNow.yt" start="20231101030000 +0000" stop="20231101060000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TimesNow.yt" start="20231101060000 +0000" stop="20231101090000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TimesNow.yt" start="20231101090000 +0000" stop="20231101120000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TimesNow.yt" start="20231101120000 +0000" stop="20231101150000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TimesNow.yt" start="20231101150000 +0000" stop="20231101180000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TimesNow.yt" start="20231101180000 +0000" stop="20231101210000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TimesNow.yt" start="20231101210000 +0000" stop="20231102000000 +0000">
+    <title lang="en">Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel</title>
+    <desc lang="en">Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, which launched a surprise attac...</desc>
+    <icon src="https://i.ytimg.com/vi/eeQDv8QlHZk/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Baileys.yt">
     <display-name lang="en">Baileys Real Estate Auction</display-name>
   </channel>
@@ -1073,49 +1159,6 @@
     <title lang="en">Auction Live Stream: 01/11/2023 1:00 PM | Bayleys Tauranga</title>
     <desc lang="en">Auctions Live</desc>
     <icon src="https://i.ytimg.com/vi/-ISDitXXARU/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="LofiGirl2.yt">
-    <display-name lang="en">Lofi Girl: lofi hip hop radio (beats to sleep/chill to)</display-name>
-  </channel>
-  <programme channel="LofiGirl2.yt" start="20231101000000 +0000" stop="20231101030000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="LofiGirl2.yt" start="20231101030000 +0000" stop="20231101060000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="LofiGirl2.yt" start="20231101060000 +0000" stop="20231101090000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="LofiGirl2.yt" start="20231101090000 +0000" stop="20231101120000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="LofiGirl2.yt" start="20231101120000 +0000" stop="20231101150000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="LofiGirl2.yt" start="20231101150000 +0000" stop="20231101180000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="LofiGirl2.yt" start="20231101180000 +0000" stop="20231101210000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="LofiGirl2.yt" start="20231101210000 +0000" stop="20231102000000 +0000">
-    <title lang="en">lofi hip hop radio 💤 - beats to sleep/chill to</title>
-    <desc lang="en">🎼 | Listen on Spotify, Apple music and more→  https://fanlink.to/lofigirl-music🌎 | Lofi Girl on all social media→  https://fanlink.to/lofigirl-social👕 | L...</desc>
-    <icon src="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="JazzCafeAmbience.yt">
     <display-name lang="en">Jazz Cafe Ambience</display-name>
