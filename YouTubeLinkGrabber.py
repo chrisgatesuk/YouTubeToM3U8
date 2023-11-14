@@ -88,7 +88,7 @@ Grabs the live-streaming M3U8 file
 
 
     if '.m3u8' not in response or stream_info.status_code != 200:
-        print(url)
+        print(url: str)
         return
     end = response.find('.m3u8') + 5
     tuner = 100
