@@ -87,7 +87,7 @@ Grabs the live-streaming M3U8 file
     soup = BeautifulSoup(stream_info.text, features="html.parser")
 
 
-    if '.m3u8' not in response:
+    if '.m3u8' not in response or stream_info.status_code != 200:
         print(url)
         return
     end = response.find('.m3u8') + 5
