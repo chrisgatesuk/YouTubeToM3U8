@@ -73,7 +73,7 @@ Build an XMLTV file based on provided stream information
     return etree.tostring(data, pretty_print=True, encoding='utf-8')
 
 
-def grab(url: str):
+def grab("url")
     """
 Grabs the live-streaming M3U8 file
     :param url: The YouTube URL of the livestream
