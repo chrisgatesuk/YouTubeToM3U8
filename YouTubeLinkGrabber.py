@@ -134,7 +134,7 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
 channel_xml = build_xml_tv(channels)
 with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
-    print('#EXTINF:-1 tvg-id="UK: SKY NEWS SD" group-title=News, Sky News SD Lite")
+    print('#EXTINF:-1 tvg-id="UK: SKY NEWS SD" group-title=News, Sky News SD Lite')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViUcZAZ_ieDXXG_oAM3Goq8")
     print('#EXTINF:-1 tvg-id="UK: SKY NEWS FHD" group-title="News", Sky News HD Lite')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV")
