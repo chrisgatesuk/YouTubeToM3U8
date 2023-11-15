@@ -134,10 +134,20 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
 channel_xml = build_xml_tv(channels)
 with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
-    print("#EXTINF:0,UK: SKY NEWS SD LITE")
+    print("#EXTINF:-1 tvg-id="Sky News SD Lite" group-title="News", Sky News SD Lite")
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViUcZAZ_ieDXXG_oAM3Goq8")
-    print("#EXTINF:0,UK: SKY NEWS HD LITE")
+    print("#EXTINF:-1 tvg-id="Sky News HD Lite" group-title="News", Sky News HD Lite")
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV")
+    print("#EXTINF:-1 tvg-id="BBC News SD Lite" group-title="News", BBC News SD Lite")
+    print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlrhzospQYsoYZr4U6PCTu8")
+    print("#EXTINF:-1 tvg-id="BBC News HD Lite" group-title="News", BBC News HD Lite")
+    print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VoLqBQkUBKVjMpVsHC0Vd5PSr5pMQ7xE6ENGoWvQ52Po")
+    print("#EXTINF:-1 tvg-id="CNN SD Lite" group-title="News", CNN SD Lite")
+    print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1Vl4E7kPY1rmnIICM6HtoJSY")
+    print("#EXTINF:-1 tvg-id="CNN HD Lite" group-title="News", CNN HD Lite")
+    print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VtcZ4bOOo39NZxsHUyI9X1vKavHfKdJebGWQui8c_QoV")
+    print("#EXTINF:-1 tvg-id="Sky Sports News HD Lite" group-title="News", Sky Sports News HD Lite")
+    print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xp1NhcJz0nI_s0Sr_Wbemrn")
     f.close()
 
 # Remove temp files from project dir
