@@ -140,7 +140,7 @@ with open('epg.xml', 'wb') as f:
     print('#EXTINF:0,UK: SKY NEWS FHD')
     print('#EXTVLCOPT:network-caching=1000')
     print('http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/267')
-    print('#EXTINF:0,UK: SKY NEWS SD')
+    print('#EXTINF:0,"F ",UK: SKY NEWS SD')
     print('#EXTVLCOPT:network-caching=1000')
     print('http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/270')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV")
