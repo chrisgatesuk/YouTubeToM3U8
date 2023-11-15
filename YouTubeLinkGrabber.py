@@ -134,10 +134,11 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
 channel_xml = build_xml_tv(channels)
 with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
+    print("#EXTM3U")
     f.close()
 
 # Remove temp files from project dir
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
-print("#EXTM3U")
+
