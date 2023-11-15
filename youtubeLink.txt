@@ -3,83 +3,14 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
+The Good Life Radio || GoodLifeRadio.yt || Music
+https://www.youtube.com/watch?v=36YnV9STBqc
+
 Chillhop Music (jazzy & lofi hip hop beats) || Chillhop.yt || Music
 https://www.youtube.com/watch?v=5yx6BWlEVcY
 
-Avex J-Pop 24/7 || Avex.yt || Music
-https://www.youtube.com/watch?v=tr77RbnfYIU
-
 Tomorrowland: One World Radio || TOWR.yt || Music
 https://www.youtube.com/watch?v=wBgSH-CGPzg
-
-Reuters Gaza Live || ReutersGaza.yt || News
-https://www.youtube.com/watch?v=dSYxIOhc5WM
-
-Live Views From Gaza 1 || GazaLive1.yt || News
-https://www.youtube.com/watch?v=_LXFltbpmOw
-
-Live Views From Gaza 2 || GazaLive2.yt || News
-https://www.youtube.com/watch?v=IcPPJqKsTR8
-
-Sky News Live || SkyNewsLive.yt || News
-https://www.youtube.com/watch?v=nSDX5oRsKgQ
-
-Sky News Cabinet || SkyNewsCabinet.yt || News
-https://www.youtube.com/watch?v=J3BCJ4aPr64
-
-Sky News Gaza || SkyNewsGaza.yt || News
-https://www.youtube.com/watch?v=p3kQ8fimwOw
-
-Agenda Free TV || AgendaFreeTV.yt || News
-https://www.youtube.com/watch?v=30NIWQ-WqGY
-
-Sky News || SkyNews.yt || News
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-France 24 (English) || France24En.yt || News
-https://www.youtube.com/watch?v=tkDUSYHoKxE
-
-CGTN Europe || CGTN Europe.yt || News
-https://www.youtube.com/watch?v=UP5z9dRC6RU
-
-CNA || CNA.yt || News
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-ABC News (US) || ABCNewsUS.yt || News
-https://www.youtube.com/watch?v=OOtxXPaQvoM
-
-ABC News (AU) || ABCNewsAU.yt ||  News
-https://www.youtube.com/watch?v=vOTiJkg1voo
-
-Bloomberg Global || Bloomberg.yt || News
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-
-Euronews || EuronewsEN.yt || News
-https://www.youtube.com/watch?v=pykpO5kQJ98
-
-NDTV 24x7 || NDTV.yt || News
-https://www.youtube.com/watch?v=Nen3UXaWDDE
-
-Al Jazeera English || AlJazeera.yt || News
-https://www.youtube.com/watch?v=gCNeDWCI0vo
-
-TRT World || TRTWorld.yt || News
-https://www.youtube.com/watch?v=5VF4aor94gw
-
-CNBC Marathon || CNBCMarathon.yt || News
-https://www.youtube.com/watch?v=9NyxcX3rhQs
-
-DW News || DWNews.yt || News
-https://www.youtube.com/watch?v=pqabxBKzZ6M
-
-NHK World Japan || NHKWorld.yt || News
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-
-Relaxing Jazz Piano Radio || JazzRadio.yt || Music
-https://www.youtube.com/watch?v=Dx5qFachd3A
-
-Epidemic Pop || EpidemicPop.yt || Music
-https://www.youtube.com/watch?v=wrEckgZZapI
 
 TOKYO Cafe || TokyoCafe.yt || Music
 https://www.youtube.com/watch?v=6uddGul0oAc
@@ -87,44 +18,59 @@ https://www.youtube.com/watch?v=6uddGul0oAc
 Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio || RainyJazz.yt || Music
 https://www.youtube.com/watch?v=DSGyEsJ17cI
 
-Little Soul: Music to put you in a better mood || LittleSoul.yt || Music
-https://www.youtube.com/watch?v=XstikgbeTPI
-
-Sky News Live  || SkyNews.yt || News
-https://news.sky.com/watch-live
-
 Fox News Live  || FoxNews.yt || News
 https://www.youtube.com/watch?v=3_-jZqsQqdk
-
-Times Now Gaza Live  || TimesNow.yt || News
-https://www.youtube.com/watch?v=eeQDv8QlHZk
-
-Baileys Real Estate Auction || Baileys.yt || Auction
-https://www.youtube.com/watch?v=-ISDitXXARU&ab_channel=BayleysRealtyGroupAuctions
-
-Baileys Real Estate Auction 2 || Baileys2.yt || Auction
-https://youtu.be/UpOWo4Q39kU
 
 Jazz Cafe Ambience || JazzCafeAmbience.yt || Music
 https://www.youtube.com/watch?v=AEKtQW93OVg
 
-Abao in Tokyo: jazz/lofi hip hop radio || AbaoInTokyo.yt || Music
-https://www.youtube.com/watch?v=HAZoLuME-PU
-
-The Good Life Radio || GoodLifeRadio.yt || Music
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-Vibing with KPop with KBS WORLD TV || KBSWorldKPop.yt || Music
-https://www.youtube.com/watch?v=6OSR_exBXQc
-
-KBS KOREA Live || KBSKorea.yt || News
-https://www.youtube.com/watch?v=OxQQsIvJTTU
-
-FeelingInTheBeat Radio || FeelingInTheBeat.yt || Music
-https://www.youtube.com/watch?v=Ix3kXeAyXfA
-
 NASA Starbase Live || NASALive.yt || Live
 https://www.youtube.com/watch?v=mhJRzQsLZGg
 
-渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera || ShibuyaScramble.yt || Live
+Shibuya Scramble Crossing Live Camera || ShibuyaScramble.yt || Live
 https://www.youtube.com/watch?v=3kPH7kTphnE
+
+Agenda Free TV || AgendaFreeTV.yt || News
+https://www.youtube.com/watch?v=wIfguhaysvo
+
+Sky News || SkyNews.yt || News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+Al Jazeera English || AlJazeera.yt || News
+https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+ABC News (US) || ABCNewsUS.yt || News
+https://www.youtube.com/watch?v=OOtxXPaQvoM
+
+CNBC Marathon || CNBCMarathon.yt || News
+https://www.youtube.com/watch?v=9NyxcX3rhQs
+
+Bloomberg Global || Bloomberg.yt || News
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+
+France 24 (English) || France24En.yt || News
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+
+DW News || DWNews.yt || News
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+
+ABC News (AU) || ABCNewsAU.yt ||  News
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+Euronews || EuronewsEN.yt || News
+https://www.youtube.com/watch?v=pykpO5kQJ98
+
+TRT World || TRTWorld.yt || News
+https://www.youtube.com/watch?v=5VF4aor94gw
+
+NDTV 24x7 || NDTV.yt || News
+https://www.youtube.com/watch?v=Nen3UXaWDDE
+
+CNA || CNA.yt || News
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+NHK World Japan || NHKWorld.yt || News
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+
+KBS KOREA Live || KBSKorea.yt || News
+https://www.youtube.com/watch?v=OxQQsIvJTTU
