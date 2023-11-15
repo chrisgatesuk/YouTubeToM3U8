@@ -136,7 +136,7 @@ with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
     print("#EXTINF:-1 tvg-id=Sky News SD Lite group-title=News, Sky News SD Lite")
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViUcZAZ_ieDXXG_oAM3Goq8")
-    print("#EXTINF:-1 tvg-id="SKY NEWS FHD" group-title="News", Sky News HD Lite")
+    print('"#EXTINF:-1 tvg-id="SKY NEWS FHD" group-title="News", Sky News HD Lite"')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV")
     print('"#EXTINF:-1 tvg-id="BBC News SD Lite" group-title="News", BBC News SD Lite"')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlrhzospQYsoYZr4U6PCTu8")
