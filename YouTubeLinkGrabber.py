@@ -128,7 +128,7 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
             print(
                 f'\n#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{channel_name}" group-title="{category}", {channel_name}')
         else:
-            grab(line)
+            grab(url)
 
 # Time to build an XMLTV file based on stream data
 channel_xml = build_xml_tv(channels)
