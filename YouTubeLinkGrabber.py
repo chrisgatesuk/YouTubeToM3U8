@@ -134,21 +134,10 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
 channel_xml = build_xml_tv(channels)
 with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
-    print("#EXTINF:0,UK: SKY NEWS SD LITE
-http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViUcZAZ_ieDXXG_oAM3Goq8
-#EXTINF:0,UK: SKY NEWS HD LITE
-http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV
-#EXTINF:0,UK: BBC NEWS SD LITE
-http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlrhzospQYsoYZr4U6PCTu8
-#EXTINF:0,UK: BBC NEWS HD LITE
-http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VoLqBQkUBKVjMpVsHC0Vd5PSr5pMQ7xE6ENGoWvQ52Po
-#EXTINF:0,UK: CNN SD LITE
-http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1Vl4E7kPY1rmnIICM6HtoJSY
-#EXTINF:0,UK: CNN HD LITE
-http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VtcZ4bOOo39NZxsHUyI9X1vKavHfKdJebGWQui8c_QoV
-#EXTINF:0,UK: Sky Sports New HD Lite
-http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xp1NhcJz0nI_s0Sr_Wbemrn
-#EXTINF:0,UK: Al Jazeera YouTube")
+    print("#EXTINF:0,UK: SKY NEWS SD LITE")
+    print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViUcZAZ_ieDXXG_oAM3Goq8")
+    print("#EXTINF:0,UK: SKY NEWS HD LITE")
+    print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV")
     f.close()
 
 # Remove temp files from project dir
