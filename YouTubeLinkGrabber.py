@@ -208,7 +208,7 @@ with open('epg.xml', 'wb') as f:
     print('http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/270')
     print('#EXTINF:-1 tvg-name="UK: SKY NEWS FHD" group-title="News", Sky News Audio Feed')
     print('https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/09_hd30.m3u8')
-    print('#EXTINF:-1 tvg-id="BBCNEWS" tvg-name="UK: BBC NEWS HD" group-title="News", L BBC News HD')
+    print('#EXTINF:-1 tvg-id="UK:BBC NEWS HD" tvg-name="BBCNEWS" group-title="News", L BBC News HD')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VoLqBQkUBKVjMpVsHC0Vd5PSr5pMQ7xE6ENGoWvQ52Po")
     print('#EXTINF:-1 tvg-id="BBCNEWS" group-title="News", L BBC News SD')
     print('http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlrhzospQYsoYZr4U6PCTu8')
