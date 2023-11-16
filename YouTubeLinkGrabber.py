@@ -190,7 +190,7 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.3.202:8001/1:0:19:418:1:A9:6400000:0:0:0:')
     print('#EXTINF:-1 tvg-id="sky.sport.popup.3.nz" tvg-logo="https://icdb.tv/images/490e8bd314a2b6fb3b0d4fea0351b61a.jpg" group-title="NZ Sport", NZ Sky Sport Pop-Up 3')
     print('http://10.1.3.203:8001/1:0:19:3F0:2:A9:6400000:0:0:0:')
-    print('#EXTINF:-1 tvg-id="espn.nz" tv-logo="https://seeklogo.com/images/E/espn-logo-BC988A9422-seeklogo.com.png" group-title="NZ Sport", NZ ESPN')
+    print('#EXTINF:-1 tvg-id="espn.nz" tvg-logo="https://seeklogo.com/images/E/espn-logo-BC988A9422-seeklogo.com.png" group-title="NZ Sport", NZ ESPN')
     print('http://10.1.3.199:8001/1:0:19:497:B:A9:6400000:0:0:0:')
     print('#EXTINF:-1 tvg-name="Sky News" group-title="News", L Sky News HD')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV")
