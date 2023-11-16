@@ -215,7 +215,7 @@
     <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="FoxNews.yt">
-    <display-name lang="en">Fox News Live</display-name>
+    <display-name lang="en">Fox News</display-name>
   </channel>
   <programme channel="FoxNews.yt" start="20231116000000 +0000" stop="20231116030000 +0000">
     <title lang="en">LiveNOW from FOX</title>
