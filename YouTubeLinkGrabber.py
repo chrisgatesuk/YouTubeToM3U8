@@ -309,7 +309,7 @@ with open('epg.xml', 'wb') as f:
     print('http://0a895194.indifferent-project.net:2086/chrisgatesuk@hotmail.com/46dQ8dMl8e/662')
     print('#EXTINF:-1 tvg-name="L Sky Sports News HD" tvg-id="SSPONED" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrXvSHr9IagKkIzvw6fDn0pi8MPxojb_5AIFaAx8tJ7QDElXMLO5FSgA_NcI_U1tcRw.png" group-title="News", L Sky Sports News HD')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xr3XBQeX3NFoC_RgQ_jgzcr")
-    print('#EXTINF:-1 tvg-name="L Sky Sports News SD" tvg-id="SSPONE" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrdkK64zUvdov5-kQh9zR1l6UQ7TO7z30SdVqJThWIJLszHPenv8sv8Sjm1C_CoweuQ.png" group-title="News", L Sky Sports News SD')
+    print('#EXTINF:-1 tvg-name="L Sky Sports News SD" tvg-id="SSPONE" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrXvSHr9IagKkIzvw6fDn0pi8MPxojb_5AIFaAx8tJ7QDElXMLO5FSgA_NcI_U1tcRw.png" group-title="News", L Sky Sports News SD')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xp1NhcJz0nI_s0Sr_Wbemrn")
     print('#EXTINF:-1 tvg-name="A Sky Sports News HD" tvg-id="skysportsnews.uk" tv-logo="https://archive.org/download/SkySportsNewsHqNew_201708/sky%20sports%20news%20hq%20new.png" group-title="News", A Sky Sports News HD')
     print('https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P-9SbkIk1Loup_qbAtc1ny6/ts')
