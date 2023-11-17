@@ -386,6 +386,49 @@
     <desc lang="en">#Shibuya  #Tokyo #Shibuyacrossing渋谷スクランブル交差点の様子をライブ配信します■JapaNews24 ～日本のニュースを24時間配信 https://www.youtube.com/watch?v=coYw-...■テレ朝ニュース公式HPテレ朝news　https://news....</desc>
     <icon src="https://i.ytimg.com/vi/3kPH7kTphnE/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="AgendaFreeTV.yt">
+    <display-name lang="en">Agenda Free TV</display-name>
+  </channel>
+  <programme channel="AgendaFreeTV.yt" start="20231117110000 +0000" stop="20231117140000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AgendaFreeTV.yt" start="20231117140000 +0000" stop="20231117170000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AgendaFreeTV.yt" start="20231117170000 +0000" stop="20231117200000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AgendaFreeTV.yt" start="20231117200000 +0000" stop="20231117230000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AgendaFreeTV.yt" start="20231117230000 +0000" stop="20231118020000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AgendaFreeTV.yt" start="20231118020000 +0000" stop="20231118050000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AgendaFreeTV.yt" start="20231118050000 +0000" stop="20231118080000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AgendaFreeTV.yt" start="20231118080000 +0000" stop="20231118110000 +0000">
+    <title lang="en">Israel Gaza War - LIVE Gaza Camera Skyline Video Coverage</title>
+    <desc lang="en">Join us for live coverage of the Israel Gaza war with live skyline camera video of Gaza. You’ll see up-to-the-minute developments in the war involving Israel...</desc>
+    <icon src="https://i.ytimg.com/vi/hy2Ld-AXFgE/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="SkyNews.yt">
     <display-name lang="en">Sky News</display-name>
   </channel>
