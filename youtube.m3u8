@@ -1,0 +1,386 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GoodLifeRadio.yt" tvg-name="The Good Life Radio" group-title="Music", The Good Life Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241032/ei/KEpXZd2NDLec_9EP4MyD0AU/ip/40.76.119.102/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7qrq25qe_dRzXNwJN4r-7xRTFUfWHDLl5MHSg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAIDGx9fshw9Sw0AcUva_fC0Sm1MxqmZWkDFgxqlEtD_bAiBGZ7MGei6zPrrAq1bqI0DR3YTYI0LrM7ZHU1xAhnx2YQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Chillhop.yt" tvg-name="Chillhop Music" group-title="Music", Chillhop Music
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241032/ei/KEpXZYznLdON_9EPuPih2AQ/ip/40.76.119.102/id/5yx6BWlEVcY.3/source/yt_live_broadcast/requiressl/yes/tx/51041726/txs/51041725%2C51041726/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1Bgg8uJQy3BydfzcbzAxgqtBbs0ZaFZk73DbQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgGpN4yA5S-JzDkwGIELj03hWMFI41pGjZkue76VdtdCgCIFC75_4BxJx_wHJx1Q_847UZTSI1KPYINcEbcp2aEjjo/file/index.m3u8
+
+#EXTINF:-1 tvg-id="TOWR.yt" tvg-name="Tomorrowland" group-title="Music", Tomorrowland
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241033/ei/KUpXZcnQD8S4gwOUpKHABg/ip/40.76.119.102/id/wBgSH-CGPzg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzRe24hxATDMktXoHZ_tv43B_a78nef0PKwGhQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAIV1uoZGoiMbNgIv2L5xkW4N4Hx1T5pgIwoLe8DUUIfuAiEAuHBel7TT7CVyJCWaV0Xtfr9y_XL48CFOfabrtCbq-9Y%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="TokyoCafe.yt" tvg-name="Tokyo Cafe" group-title="Music", Tokyo Cafe
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241033/ei/KUpXZYGLMYmM8wSC5KLIDQ/ip/40.76.119.102/id/6uddGul0oAc.5/source/yt_live_broadcast/requiressl/yes/tx/51018864/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_SUlQMj_8IktS40lQP7WNCXIRzpf28OlmS12g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgIAJpdmFfW6QTHejCcUUmrMrXXYEzwpWn-kVxWp7H76wCIQDYnH8FbJUjwJuOUGyQkv511n2qQSzQZDwoY4xp0_xE4g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="RainyJazz.yt" tvg-name="Rainy Jazz" group-title="Music", Rainy Jazz
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241034/ei/KkpXZbzmE8uM_9EPgrOKyAY/ip/40.76.119.102/id/DSGyEsJ17cI.456/source/yt_live_broadcast/requiressl/yes/tx/51018870/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f09xrpJo85cpNZ5Dl7Yv910iMtUDeP002GJFng/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwQwIgBBcmRYUkPle3hX_29qvVjrxCPqQUVgTRo817EbkwTEgCHwJeeUbZ-olBiRn7hDrlx9n0PatmC4rpsVlQzWovf_A%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" group-title="News", Fox News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241034/ei/KkpXZbbMNe2P_9EPlqGysAs/ip/40.76.119.102/id/3_-jZqsQqdk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7hwG-Fa7f1EPsC0ZDDwpxrrIYvnthS6h3dwQw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAJ-8OAk6SrqcgbyGKdACbRzqA7X1il-NlDaCnp1s7wMTAiEA-D8kMWj8Mrtmdt8hbBwHEF-StklCJQvjtISpHM5pTj0%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="JazzCafeAmbience.yt" tvg-name="Jazz Cafe Ambience" group-title="Music", Jazz Cafe Ambience
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241035/ei/K0pXZdGKE96F_9EPp8-S8AY/ip/40.76.119.102/id/AEKtQW93OVg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7kSCnXyMsPXSfrtHab_KLVpThVJBQwS0UJBtQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAKXSpOsg1-meyayklZU9MMUZsz172HdNH7c9iim1zCm7AiEA4mMLc-C_yhnyNXJeO70zvpKciWnL9BKMIr_8EhIEQ4U%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="NASALive.yt" tvg-name="NASA Starbase Live" group-title="Live", NASA Starbase Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241035/ei/K0pXZciSNN6o_9EPhviTsAo/ip/40.76.119.102/id/mhJRzQsLZGg.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwPlC3FZR4td6Yl7V2SbwFyGIr0qTBm-fg0Tmg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgJblCxx1yfmD2jf7AJoCx5R2-tggibMlKSyu859r-gBsCIQDJRlbhcSjozP4kRmBux2j3gSWk5h8WGq9Ue_-kSL93PQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="ShibuyaScramble.yt" tvg-name="Shibuya Crossing Live Camera" group-title="Live", Shibuya Crossing Live Camera
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241036/ei/LEpXZYijE4uE_9EP5s2ZyAY/ip/40.76.119.102/id/3kPH7kTphnE.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_gGCa4_iLXvQq1eu1NPOIlGrNqs7ktKYxr5Cw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgcehcuua_RnefE10Krot88I8WKp3Mx5gG-PZ_8QleRQ8CIQD7d_-121eUDY4NMZZreZSKbRuXLIQDQ8EejmnbvtOepw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="AgendaFreeTV.yt" tvg-name="Agenda Free TV" group-title="News", Agenda Free TV
+https://www.youtube.com/watch?v=wIfguhaysvo
+
+#EXTINF:-1 tvg-id="SkyNews.yt" tvg-name="Sky News" group-title="News", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241037/ei/LUpXZc_kEbeKy_sPqf-6wAg/ip/40.76.119.102/id/9Auq9mYxFEE.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f75b2pWuQJKPbE5-fsyc2KotZz-AJH9I0KOaVw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgd7JEGgm7_EdI_CfMNhnxFjoghqQt0juicYPKVeLlPXgCIG7v1Rwo53ROcnv1kvyl105Ct6gIbjysHNaXSldQVeHW/file/index.m3u8
+
+#EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241037/ei/LUpXZdKBLcL78gTJjruYBg/ip/40.76.119.102/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_KHehcqwU4-bPM5baj0gdb6Hp1uXer54i-_og/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAKPH21Q2hvZSCvLbgxtrRpnIJRnPD4jR3zinuJYFC7WlAiAP-VREXOonvpjedLGs8hWa-3UPV_BsW4hWSzQ9CzHLsw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="ABC News (US)" group-title="News", ABC News (US)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241038/ei/LkpXZa-MD-6t_9EP69OXiAs/ip/40.76.119.102/id/OOtxXPaQvoM.1/source/yt_live_broadcast/requiressl/yes/tx/51043993/txs/51043991%2C51043992%2C51043993%2C51043994%2C51043995%2C51043996/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyJ9iaqQ4XTI7w_5tRLToUk637_q0NW4_2ko4g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgYg1M4fJhIih6bGmYjTSGsr2DvmHRMGs-GklSZVq23KACIQDmVEWYUtmu82GPqzjbsWqcFRgB9E_fc7USsFHuBUETOw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="CNBC" group-title="News", CNBC
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241038/ei/LkpXZfTkLYeG8wSa76iYCw/ip/40.76.119.102/id/9NyxcX3rhQs.181/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwlAAcTyGIN0uDARdi0-6RYehmxxqnJJpDPmvA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgUwqqxq7A_wqYK3SjDxzGdC8ZK1b00-Ft5tMir41c_aMCIBpf7rjRzto5rEI2AKLwR_AY12pv6ybnIxtmqLhTbGOa/file/index.m3u8
+
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="Bloomberg Global" group-title="News", Bloomberg Global
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241039/ei/L0pXZb7dDYCf_9EP9siSsAY/ip/40.76.119.102/id/dp8PhLsUcFE.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_QtZw8-H7I_Vh5Ghf8_eWk1vDe-sz3ItyOiJQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgMpKLRfL8Qyd9uVY7hEhNjA_HEI2DCnX5QpHVJ-clHSECIQD5Tmifu48T930z8T55dNhpknV1ONlHKNM5UI8UTg_-Dw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="France24En.yt" tvg-name="France 24 (English)" group-title="News", France 24 (English)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241039/ei/L0pXZdyoLMLr4QTP25TIDQ/ip/40.76.119.102/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0nVFzUhfxxhlJ9SRHK8S1F2hDdjHCxEJv4w-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAIag4BHqBRHJEf7mCy9SKgfxgeqCWPC8TPu_saqOtSlzAiBPUqdAdznIaMSLsxFjKBsCB8EiX97_Xn9ykyY0sFlecw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="DWNews.yt" tvg-name="DW News" group-title="News", DW News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241040/ei/MEpXZYiADcv48gSusrPwCw/ip/40.76.119.102/id/pqabxBKzZ6M.147/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f116LhKHCbeaIEA2uYfViocvVdsb9Q7_WEx_Fg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAJ8BouPOLW_EdN66qcKVOndt4jP_6AtLM5FhE3cGASuzAiEA0ki7ciMV4KjanMvLEkTbPrOOB2tOM57LT2lya2frXwQ%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="US: ABC NEWS HD" tvg-name="ABC News (AU)" group-title="News", ABC News (AU)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241040/ei/MEpXZbmmKoKG8wS4sLnIDQ/ip/40.76.119.102/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fzQ_2gjQwOsrh_haruDw_UGI98fcVIdWfVQwhQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgY0oyt9FT6BbHJ6hSc3Q0d1o71pVcxpkkogEILfYewUYCICR1Wtf5th6_Ws2qjT84qj-ul6UzYtCEstVvyxI-qkav/file/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEN.yt" tvg-name="Euronews" group-title="News", Euronews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241041/ei/MUpXZea7FYf48gSQooBQ/ip/40.76.119.102/id/pykpO5kQJ98.2/source/yt_live_broadcast/requiressl/yes/tx/24554063/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f37bIoA9pyi_BXfdM6fIe0q7X5Bnk7p5rW2fzA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAPZsqt0XnJocyABfahgyO-ruJ_NN8HXOIWrNuXqawMZZAiEAx6b4ydT7eizz_VL9bCnduRDleBo-A_DtEZflbJBymjQ%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="trtworldhd.uk" tvg-name="TRT World" group-title="News", TRT World
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241041/ei/MUpXZda6NcuM_9EPgrOKyAY/ip/40.76.119.102/id/5VF4aor94gw.36/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_VmiJHgCGIDTLAgJMX4A4mYOcLqOBmUYJZ0BA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAKQh0O-kZhA4-HIz-Z5P2K8Sdi3QMlNmCz3a9Z36fWU2AiEA9ndLMtRrTx6WDFr-AT8g_f-_Fj2oK0ZgYO9uVZF9Ffo%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="NDTV.yt" tvg-name="NDTV 24x7" group-title="News", NDTV 24x7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241042/ei/MkpXZcjNG8_j8wSVrqnwCw/ip/40.76.119.102/id/Nen3UXaWDDE.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-ZBZsMf6HshiWXCOTgP76X50h92NOAk7A6xYw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgJc59-eIUGz6LpwRYmEu-Tf56e3oyYjOs6YryE1B8YSwCIH1GGsV7MSfWUfYvg30LwS192KyaO5CLh88uA3KrGRbu/file/index.m3u8
+
+#EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="CNA" group-title="News", CNA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241042/ei/MkpXZY-kN4OLgwPCv5q4Cg/ip/40.76.119.102/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_4lpAHLUs_dZLDNAiFPMo4hq0Ei1c04LhENaA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgDA-B-Vy35L95sbl6KrSL7yk661fn_nEecfvwUYSnHFoCIQDsohVvJWIYfd2v6geNjRtx3DYywIJf4uW85FipKVwpNQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="nhkworldhd.uk" tvg-name="NHK World Japan" group-title="News", NHK World Japan
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241043/ei/M0pXZYX6Foic_9EPpaisyAo/ip/40.76.119.102/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/tx/51044005/txs/51044003%2C51044004%2C51044005%2C51044006%2C51044007%2C51044008/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzDKJlq19iYL66b9vM-VECqKakhOVz81B2gogA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgIdPbdSGDstWyIdEdFuniZOP1VBRii-FhLyiimffuNFsCIQCIwvDNJxZWdoBb7Wkup_-wZtsuj9KvsSalMQh7soZloA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="KBSKorea.yt" tvg-name="KBS Korea Live" group-title="News", KBS Korea Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700241043/ei/M0pXZemRMIqF_9EPqI2N4AQ/ip/40.76.119.102/id/OxQQsIvJTTU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f-bsdutLYefCIC4o9MRMqgwSOksn220Of_nwuA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgRA24kkWRIv-r_GrsolsTqCBvZ2R4yOmW8QhebhWLsDYCIQDB9CQLmKEFrJMMIe48Sx6RrK3yKQ3-mvBc7JT7PR4FJQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="Sky Q Lounge" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf7399d70ccccacbd/616942290d172d03af6210c1/SKY-Q-.jpg" group-title="Video Capture", Sky Q Lounge
+rtmp://213.123.132.37:1936/
+#EXTINF:-1 tvg-id="Sky Q Attic" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf7399d70ccccacbd/616942290d172d03af6210c1/SKY-Q-.jpg" group-title="Video Capture", Sky Q Attic
+rtmp://213.123.132.37:1935/
+#EXTINF:-1 tvg-id="Just Add Power Source Local" tvg-logo="https://avation.co.nz/wp-content/uploads/2017/06/Just_Add_Power.jpg" group-title="Video Capture", Just Add Power Source Local
+rtmp://10.1.2.117:1935
+#EXTINF:-1 tvg-id="Just Add Power Source Remote" tvg-logo="https://avation.co.nz/wp-content/uploads/2017/06/Just_Add_Power.jpg" group-title="Video Capture", Just Add Power Source Remote
+rtmp://116.251.193.171:1935
+#EXTINF:-1 tvg-id="House Shield Local" tvg-logo="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-horiz-500x200-2c50-d.png" group-title="Video Capture", House Shield Local
+rtmp://10.1.2.142:1935
+#EXTINF:-1 tvg-id="House Shield Remote"  tvg-logo="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-horiz-500x200-2c50-d.png" group-title="Video Capture", House Shield Remote
+rtmp://125.236.206.239:1935
+#EXTINF:-1 tvg-id="Sky TV NZ Local" tvg-logo="https://res.cloudinary.com/soar-communications-group-ltd/images/f_auto,q_auto/v1653672364/stoppress.co.nz/sky_image/sky_image.jpg" group-title="Video Capture", Sky TV NZ Local
+rtmp://10.1.2.146:1935
+#EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="NZ FTA" , TVNZ 1 1080p
+http://10.1.3.199:8001/1:0:19:493:8:A9:6400000:0:0:0:
+#EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="NZ FTA" , TVNZ 1 720p
+https://i.mjh.nz/tvnz-1.m3u8
+#EXTINF:-1 channel-id="mjh-tvnz-2" tvg-id="mjh-tvnz-2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="NZ FTA" , TVNZ 2 1080p
+http://10.1.3.199:8001/1:0:19:494:8:A9:6400000:0:0:0:
+#EXTINF:-1 channel-id="mjh-tvnz-2" tvg-id="mjh-tvnz-2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="NZ FTA" , TVNZ 2 720p
+https://i.mjh.nz/tvnz-2.m3u8
+#EXTINF:-1 channel-id="mjh-three" tvg-id="mjh-three" tvg-logo="https://i.mjh.nz/.images/three.png" tvg-chno="3" group-title="NZ FTA" , Three 1080p
+http://10.1.3.199:8001/1:0:19:48D:8:A9:6400000:0:0:0:
+#EXTINF:-1 channel-id="mjh-three" tvg-id="mjh-three" tvg-logo="https://i.mjh.nz/.images/three.png" tvg-chno="3" group-title="NZ FTA" , Three 720p
+https://i.mjh.nz/three.m3u8
+#EXTINF:-1 channel-id="mjh-tvnz-duke" tvg-id="mjh-tvnz-duke" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="NZ FTA" , DUKE 1080p
+http://10.1.3.199:8001/1:0:19:3F3:8:A9:6400000:0:0:0:
+#EXTINF:-1 channel-id="mjh-tvnz-duke" tvg-id="mjh-tvnz-duke" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="NZ FTA" , DUKE 720p
+https://i.mjh.nz/tvnz-duke.m3u8
+#EXTINF:-1 tvg-id="NZ: SKY SPORT 1" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport 1
+http://10.1.3.201:8001/1:0:19:489:7:A9:6400000:0:0:0:
+#EXTINF:0,NZ: SKY SPORT 2
+http://10.1.3.201:8001/1:0:19:48A:7:A9:6400000:0:0:0:
+#EXTINF:0,NZ: SKY SPORT 3 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="NZ Sport"
+http://10.1.3.205:8001/1:0:19:496:9:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="NZ: SKY SPORT 4" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport 4
+http://10.1.3.205:8001/1:0:19:4B1:9:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="NZ: SKY SPORT 5" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport 5
+http://10.1.3.206:8001/1:0:19:4B2:A:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="NZ: SKY SPORT 6" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport 6
+http://10.1.3.206:8001/1:0:19:4B3:A:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="NZ: SKY SPORT 7" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport 7
+http://10.1.3.202:8001/1:0:19:4B7:1:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="NZ: SKY SPORT PREMIER LEAGUE" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="NZ Sport", NZ Sky Sport Premier League
+http://10.1.3.206:8001/1:0:19:4B4:A:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="NZ: SKY SPORT 9" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport 9
+http://10.1.3.203:8001/1:0:19:4C1:2:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="NZ: SKY SPORT SELECT" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport Select
+http://10.1.3.199:8001/1:0:19:4DC:B:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="sky.sport.popup.1.nz" tvg-logo="https://icdb.tv/images/490e8bd314a2b6fb3b0d4fea0351b61a.jpg" group-title="NZ Sport", NZ Sky Sport Pop-Up 1 *
+http://10.1.3.202:8001/1:0:19:3F1:4:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="sky.sport.popup.2.nz" tvg-logo="https://icdb.tv/images/490e8bd314a2b6fb3b0d4fea0351b61a.jpg" group-title="NZ Sport", NZ Sky Sport Pop-Up 2
+http://10.1.3.202:8001/1:0:19:418:1:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="sky.sport.popup.3.nz" tvg-logo="https://icdb.tv/images/490e8bd314a2b6fb3b0d4fea0351b61a.jpg" group-title="NZ Sport", NZ Sky Sport Pop-Up 3
+http://10.1.3.203:8001/1:0:19:3F0:2:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://seeklogo.com/images/E/espn-logo-BC988A9422-seeklogo.com.png" group-title="NZ Sport", NZ ESPN
+http://10.1.3.199:8001/1:0:19:497:B:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-name="L BBC One HD" tvg-id="BBC1HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrXvSHr9IagKkIzvw6fDn0pjCECoFrFXWEY7JfJVcg8h5UrORdvxghyQco_fsVwaW5A.png" group-title="UK Entertainment", L BBC One HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViXn-YqrcicW1wyQBcCXAfM
+#EXTINF:-1 tvg-name="L BBC One SD" tvg-id="bbc1.uk" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrTyNIvjGSoxS4X4W2wFRGMInhR0ClBfD4cbgFg5oIvcUnOc6CU8vvr55vsK__LbFoQ.png" group-title="UK Entertainment", L BBC One SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViXn-YqrcicW1wyQBcCXAfM
+#EXTINF:-1 tvg-name="F BBC One HD" tvg-id="bbc1.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Bbc1/bbc%201.png" group-title="UK Entertainment", F BBC One HD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/8015
+#EXTINF:-1 tvg-name="F BBC One SD" tvg-id="bbc1.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Bbc1/bbc%201.png" group-title="UK Entertainment", F BBC One SD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/394
+#EXTINF:-1 tvg-name="A BBC One HD" tvg-id="bbc1.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/6614baa8b02c78a779e3ea40eb893bab.png" group-title="UK Entertainment", A BBC One HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8HaOGiSJ43UIXo0nZetz6Z/ts
+#EXTINF:-1 tvg-name="A BBC One SD" tvg-id="BBC1" tvg-logo="https://wedontlikepubliceyes22.me:443/images/b64518bcfd225959ee7f0fb42069cf81.png" group-title="UK Entertainment", A BBC One SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P-BiaMI_Vxc_DG-9DT5Z2Cr/ts
+#EXTINF:-1 tvg-name="L BBC Two HD" tvg-id="BBC2HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrWgJBUgjo8iBFHw83-qp0lV9PY97YNSsLQ82-_oZ0OvfVcuCc3yULyqqsS6RQBIINA.png" group-title="UK Entertainment", L BBC Two HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlMKmJhqR3e5QXoRs3cX4vQ
+#EXTINF:-1 tvg-name="L BBC Two SD" tvg-id="bbc2.uk" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrTyNIvjGSoxS4X4W2wFRGMIXGc7D7gHMBE1UE99RFFE0HrP8U9aBAQGoveUcIPUhfQ.png" group-title="UK Entertainment", L BBC Two SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1Vsu3jaCq8Wa3Mw_rDQakNvvhDdkDwy_DQME3UjoY5PHH
+#EXTINF:-1 tvg-name="F BBC Two HD" tvg-id="bbc2.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Bbc2/bbc%202.jpg" group-title="UK Entertainment", F BBC Two HD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/8016
+#EXTINF:-1 tvg-name="F BBC Two SD" tvg-id="bbc2.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Bbc2/bbc%202.jpg" group-title="UK Entertainment", F BBC Two SD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/3
+#EXTINF:-1 tvg-name="A BBC Two HD" tvg-id="bbc2.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/2aafdea532f55fb40c07c7da443c892f.png" group-title="UK Entertainment", A BBC Two HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_NgPjGcqqOtsstEZqpngiV/ts
+#EXTINF:-1 tvg-name="A BBC Two SD" tvg-id="bbc2.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/045e89185ec288f6c6c13d413b2df49f.png" group-title="UK Entertainment", A BBC Two SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P-ZDL_sEBkR8YJwY_EpYF_Y/ts
+#EXTINF:-1 tvg-name="L ITV HD" tvg-id="ITVMNF" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrWgJBUgjo8iBFHw83-qp0lUZ2DtjevWl1WJpWQspHO9N3i3W14zQeq6doeCHEE72TQ.png" group-title="UK Entertainment", L ITV HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VpRzO3gSJOEjIXMBz95d_-I
+#EXTINF:-1 tvg-name="L ITV SD" tvg-id="itv1.uk" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrWgJBUgjo8iBFHw83-qp0lUZ2DtjevWl1WJpWQspHO9N3i3W14zQeq6doeCHEE72TQ.png" group-title="UK Entertainment", L ITV SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VkmeHzATiccTjwVCI8Y25wjB2hIzFnXmq_JVQDDrePyr
+#EXTINF:-1 tvg-name="F ITV HD" tvg-id="itv.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Itv1/itv%201.png" group-title="UK Entertainment", F ITV HD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/7900
+#EXTINF:-1 tvg-name="F ITV SD" tvg-id="itv.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Itv1/itv%201.png" group-title="UK Entertainment", F ITV SD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/637
+#EXTINF:-1 tvg-name="A ITV HD" tvg-id="itv1.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/f2e6971d7d94bd7076e1708d07a2ee48.png" group-title="UK Entertainment", A ITV HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P-bIQHxgfYrwCyANhbPnRQ5/ts
+#EXTINF:-1 tvg-name="A ITV SD" tvg-id="itv1.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/4c565c7d5405218c014cdeac0def81a9.png" group-title="UK Entertainment", A ITV SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_7WpNNU8dnIT-X4-zxD6uZ/ts
+#EXTINF:-1 tvg-name="L Channel 4 HD" tvg-id="C4HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrWgJBUgjo8iBFHw83-qp0lU_8wQicGoXcqeGvzlg3hjbIG-Me1sBHiFlIISdCF699g.png" group-title="UK Entertainment", L Channel 4 HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VkOwCU241i-5Ad-CVYjMheo
+#EXTINF:-1 tvg-name="L Channel 4 SD" tvg-id="C4HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrWgJBUgjo8iBFHw83-qp0lU_8wQicGoXcqeGvzlg3hjbIG-Me1sBHiFlIISdCF699g.png" group-title="UK Entertainment", L Channel 4 SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VkmeHzATiccTjwVCI8Y25wgse_FBvAR6xBLm3LW2DYZB
+#EXTINF:-1 tvg-name="F Channel 4 HD" tvg-id="channel4.uk" tvg-logo="https://archive.org/download/Channel4_201708/channel%204.png" group-title="UK Entertainment", F Channel 4 HD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/7890
+#EXTINF:-1 tvg-name="F Channel 4 SD" tvg-id="channel4.uk" tvg-logo="https://archive.org/download/Channel4_201708/channel%204.png" group-title="UK Entertainment", F Channel 4 SD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/651
+#EXTINF:-1 tvg-name="A Channel 4 HD" tvg-id="C4HD" tvg-logo="https://wedontlikepubliceyes22.me:443/images/d28ed7fc8ca474a7f424d5d2ee791b0e.png" group-title="UK Entertainment", A Channel 4 HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8YKIpSb1vvZCy5RSogWGhW/ts
+#EXTINF:-1 tvg-name="A Channel 4 SD" tvg-id="C4HD" tvg-logo="https://wedontlikepubliceyes22.me:443/images/d4a7ebe8eb8d6e93e55556c21f6d271f.png" group-title="UK Entertainment", A Channel 4 SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_B-bA5V82N5MbGUG5ECBkW/ts
+#EXTINF:-1 tvg-name="L Channel 5 HD" tvg-id="CH5HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrWgJBUgjo8iBFHw83-qp0lUlKR6NEw3GJxXzZ50N3Zd9D7wUqVGhHnFTjorwAq9eJg.png" group-title="UK Entertainment", L Channel 5 HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1Vubmv3kYkpGM_2X_rN1fm5takhM7y8kqHuC646tsOSOv
+#EXTINF:-1 tvg-name="L Channel 5 SD" tvg-id="CH5HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrWgJBUgjo8iBFHw83-qp0lUlKR6NEw3GJxXzZ50N3Zd9D7wUqVGhHnFTjorwAq9eJg.png" group-title="UK Entertainment", L Channel 5 SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VkmeHzATiccTjwVCI8Y25wi08ojhPZ5VHy9oOuYP8ryV
+#EXTINF:-1 tvg-name="F Channel 5 HD" tvg-id="channel5.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_5/5.png" group-title="UK Entertainment", F Channel 5 HD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/8017
+#EXTINF:-1 tvg-name="F Channel 5 SD" tvg-id="channel5.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_5/5.png" group-title="UK Entertainment", F Channel 5 SD
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/6
+#EXTINF:-1 tvg-name="A Channel 5 HD" tvg-id="channel5.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/112b75c1636c5e6ec4b6a534e4dfdcc5.png" group-title="UK Entertainment", A Channel 5 HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P9vG-AFjMffn_pKUq7EuSkG/ts
+#EXTINF:-1 tvg-name="A Channel 5 SD" tvg-id="channel5.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/2c031c8b597335e4886c0c98c895f275.png" group-title="UK Entertainment", A Channel 5 SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8WGwoNYkLoep49J9o7_38K/ts
+#EXTINF:-1 tvg-name="L Sky News HD" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNewsHd/sky%20news%20hd.png" group-title="News", L Sky News HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlmmbDZkqyK4Z3subfwAcqehTTXOUR99Ekk2ur92--RV
+#EXTINF:-1 tvg-name="L Sky News SD" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNews_201708/sky%20news.png" group-title="News", L Sky News SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViUcZAZ_ieDXXG_oAM3Goq8
+#EXTINF:-1 tvg-name="A Sky News HD" tvg-id="skynews.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/b091192b55c667f6f6a3003034ae4c3e.png" group-title="News", A Sky News HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_GVrZLxYUzKIGIe9XUdqdG/ts
+#EXTINF:-1 tvg-name="A Sky News SD" tvg-id="skynews.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/3e1415be0afb239a78e2861d73ea0eb4.png" group-title="News", A Sky News SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P9eRBIKjfMZCLGBgmjz-rJv/ts
+#EXTINF:-1 tvg-name="F Sky News HD" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNewsHd/sky%20news%20hd.png" group-title="News", F Sky News HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/267
+#EXTINF:-1 tvg-name="F Sky News SD" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNews_201708/sky%20news.png" group-title="News", F Sky News SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/270
+#EXTINF:-1 tvg-name="YT Sky News Audio Feed" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNews_201708/sky%20news.png" group-title="News", Sky News Audio Feed
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/09_hd30.m3u8
+#EXTINF:-1 tvg-name="L BBC News HD" tvg-id="BBCNWHD" tvg-logo="http://80.82.76.70:80/images/SvlCE3pU-C0TyF1rEXMsrbnNqbgSmPjNUZqJQsU6xJFeoKkXT9h1Nrv1T74HQEbK_VXReq1lSG0Cfcp97LbTBg.png" group-title="News", L BBC News HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VoLqBQkUBKVjMpVsHC0Vd5PSr5pMQ7xE6ENGoWvQ52Po
+#EXTINF:-1 tvg-name="L BBC News SD" tvg-id="BBCNEWS" tvg-logo="http://80.82.76.70:80/images/SvlCE3pU-C0TyF1rEXMsrTyNIvjGSoxS4X4W2wFRGMLrbpn9qFUC7YFSDLMkVKTwnn-1rNjQMYxmEqC3AnFqAQ.png" group-title="News", L BBC News SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VlrhzospQYsoYZr4U6PCTu8
+#EXTINF:-1 tvg-name="A BBC News HD" tvg-id="bbcnews.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/b9b3b82193b3008b23bc3d1a70eb8783.png" group-title="News", A BBC News HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P-nIH7f1zUPeNGeatH1tK3J/ts
+#EXTINF:-1 tvg-name="A BBC News SD" tvg-id="bbcnews.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/3ca498c10344e1d56572b6cc307652d5.png" group-title="News", A BBC News SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P9mMvfe51wfTPmfw4O0x5NC/ts
+#EXTINF:-1 tvg-name="F BBC News HD" tvg-name="bbcnews.uk" tvg-logo="https://archive.org/download/bbc_news_201711/bbc_news.png" group-title="News", F BBC News HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/603
+#EXTINF:-1 tvg-name="F BBC News SD" tvg-name="bbcnews.uk" tvg-logo="https://archive.org/download/bbc_news_201711/bbc_news.png" group-title="News", F BBC News SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/688
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-logo="https://seeklogo.com/images/B/bbc-world-news-logo-10255C2E3B-seeklogo.com.png" group-title="News", BBC World News NZ Feed
+http://10.1.3.202:8001/1:0:16:402:1:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-name="L CNN HD" tvg-id="cnn.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Cnn/cnn.png" group-title="News", L CNN HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VtcZ4bOOo39NZxsHUyI9X1vKavHfKdJebGWQui8c_QoV
+#EXTINF:-1 tvg-name="L CNN SD" tvg-id="cnn.uk" tvg-logo= "https://archive.org/download/stevechatfield27_gmail_Cnn/cnn.png" group-title="News", L CNN SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1Vl4E7kPY1rmnIICM6HtoJSY
+#EXTINF:-1 tvg-name="A CNN HD" tvg-id="cnn.uk" tvg-logo="https://wedontlikepubliceyes22.me:443/images/9f3465cc11d8c754ffd0f3424726a9f3.png" group-title="News", A CNN HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8Vj10AUju_nCFXONaJK_Q5/ts
+#EXTINF:-1 tvg-name="A CNN SD" tvg-id="cnn.uk" tvg-logo=https://wedontlikepubliceyes22.me:443/images/9f3465cc11d8c754ffd0f3424726a9f3.png" group-title="News", A CNN SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P89pD2KjujBfBZuo8Xmpino/ts
+#EXTINF:-1 tvg-name="A CNN US HD" tvg-id="cnn.us" tvg-logo="https://wedontlikepubliceyes22.me:443/images/9f3465cc11d8c754ffd0f3424726a9f3.png" group-title="News", A CNN US HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8wxd3_upyi0U1Njlc-nx9t/ts
+#EXTINF:-1 tvg-name="F CNN HD" tvg-id="cnn.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Cnn/cnn.png" group-title="News", F CNN HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/284
+#EXTINF:-1 tvg-name="F CNN SD" tvg-id="cnn.uk" tvg-logo="https://archive.org/download/stevechatfield27_gmail_Cnn/cnn.png" group-title="News", F CNN SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/662
+#EXTINF:-1 tvg-name="CNN NZ Feed" tvg-id="cnn.us" tvg-logo="https://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.png" group-title="News", CNN NZ Feed
+http://10.1.3.199:8001/1:0:16:3F7:B:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-name="Al Jazeera NZ Feed" tvg-id="aljazeera.uk" tvg-logo="https://archive.org/download/AlJazeera_201708/al%20jazeera.png" group-title="News" , Al Jazeera NZ Feed
+http://10.1.3.204:8001/1:0:16:4BC:D:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="sky.news.nz" tvg-logo="https://seeklogo.com/images/S/sky-news-australia-logo-252ABF9816-seeklogo.com.png" group-title="News", Sky News Australia
+http://10.1.3.202:8001/1:0:16:3F9:1:A9:6400000:0:0:0:
+http://0a895194.indifferent-project.net:2086/chrisgatesuk@hotmail.com/46dQ8dMl8e/662
+#EXTINF:-1 tvg-name="L Sky Sports News HD" tvg-id="SSPONED" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrXvSHr9IagKkIzvw6fDn0pi8MPxojb_5AIFaAx8tJ7QDElXMLO5FSgA_NcI_U1tcRw.png" group-title="News", L Sky Sports News HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xr3XBQeX3NFoC_RgQ_jgzcr
+#EXTINF:-1 tvg-name="L Sky Sports News SD" tvg-id="SSPONE" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrdkK64zUvdov5-kQh9zR1l6UQ7TO7z30SdVqJThWIJLszHPenv8sv8Sjm1C_CoweuQ.png" group-title="News", L Sky Sports News SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xp1NhcJz0nI_s0Sr_Wbemrn
+#EXTINF:-1 tvg-name="A Sky Sports News HD" tvg-id="skysportsnews.uk" tv-logo="https://archive.org/download/SkySportsNewsHqNew_201708/sky%20sports%20news%20hq%20new.png" group-title="News", A Sky Sports News HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P-9SbkIk1Loup_qbAtc1ny6/ts
+#EXTINF:-1 tvg-name="A Sky Sports News SD" tvg-id="skysportsnews.uk" tv-logo+"https://ia800806.us.archive.org/29/items/SkySportsNewsHqNew_201708/sky%20sports%20news%20hq%20new.png" group-title="News", A Sky Sports News SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_hMjQQOB9zp1IvuECQ2YOv/ts
+#EXTINF:-1 tvg-name="F Sky Sports News HD" tvg-id="skysportsnews.uk" tv-logo="https://wedontlikepubliceyes22.me:443/images/CW4yR2X6FDejrPybenYCwDtQJz2Z7HyNavwwzdNtsx-ekbSRQiQvvs_ixMlqipzmBCJvmplaeCXbu2xl9oOO5k_C5eVqD-mdxIlOzDuw_Cg.jpg" group-title="News", F Sky Sports News HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:2086/chrisgatesuk@hotmail.com/46dQ8dMl8e/31
+#EXTINF:-1 tvg-name="F Sky Sports News SD" tvg-id="skysportsnews.uk" tv-logo="https://wedontlikepubliceyes22.me:443/images/CW4yR2X6FDejrPybenYCwDtQJz2Z7HyNavwwzdNtsx-ekbSRQiQvvs_ixMlqipzmBCJvmplaeCXbu2xl9oOO5k_C5eVqD-mdxIlOzDuw_Cg.jpg" group-title="News", F Sky Sports News SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/29
+#EXTINF:-1 tvg-name="L Sky Sports Main Event HD" tvg-id="SSPOMEH" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrfpplR_B_AZdYsIrHm-vf-scrgf7onwMqFn3yh6iZLMKm1Jhn0Ye0vs9t319FIiH8Q.png" group-title="UK Sports", L Sky Sports Main Event HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViAQBoNUsIsy_s1E_-s5ECN5cqo0T07GCem-qOUPyU_b
+#EXTINF:-1 tvg-name="L Sky Sports Main Event SD" tvg-id="SSPOME" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrTyNIvjGSoxS4X4W2wFRGMLULxkKn23DA2WMB_zghNp6AR35l5t88ONQqZE9aUUmYw.png" group-title="UK Sports", L Sky Sports Main Event SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViAQBoNUsIsy_s1E_-s5ECNvclja7nueTNJ3BJQnxdKL
+#EXTINF:-1 tvg-name="A Sky Sports Main Event HD" tvg-id="SSPOMEH" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-title="UK Sports", A Sky Sports Main Event HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P9wz-1phFF69w7tUCbYBbZz/ts
+#EXTINF:-1 tvg-name="A Sky Sports Main Event SD" tvg-id="skysportsmainevent.uk" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-title="UK Sports", A Sky Sports Main Event SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P-KbAv6b6ID3ZRpFAkVUUYY/ts
+#EXTINF:-1 tvg-name="F Sky Sports Main Event HD" tvg-id="skysportsmainevent.uk" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-title="UK Sports", F Sky Sports Main Event HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11243
+#EXTINF:-1 tvg-name="F Sky Sports Main Event SD" tvg-id="skysportsmainevent.uk" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-title="UK Sports", F Sky Sports Main Event SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11246
+#EXTINF:-1 tvg-name="L TNT Sport 1 HD" tvg-id="BTSP1HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrbnNqbgSmPjNUZqJQsU6xJEl8nXIj9hgV_jBkVIM8_CKsxaXcMSjH1ImqJHHzfmLzg.png" group-title="UK Sports", L TNT Sport 1 HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VvqpXRFv0d1E1z1IS4FNHTp6AryAuClwMDCUt_EMfJAT
+#EXTINF:-1 tvg-name="L TNT Sport 1 SD" tvg-id="BTSP1HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrSVAsUUCjWaNU9TO0iH5v-0cO74ZLYU9_TBgXYEJGguHPFY3sKODQM1eUsC4JNYFWQ.png" group-title="UK Sports", L TNT Sport 1 SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xoid37aP7LO50bT_iFltnsi
+#EXTINF:-1 tvg-name="A TNT Sport 1 HD" tvg-id="BTSP1HD" tvg-logo="https://wedontlikepubliceyes22.me:443/images/QIJDGRUBUEYTs6O3My3Uydj3CtEXyP8qEdsMa7VRLj_llgLaYojXGGHcTC6nOwfbGf6MDzrE_fjNRdUqyIEnoQkwzdct8vpHp2p0snIMVah8mC7HFrYtMKgjKq7aeyGCL1WuefIuopyaVrErGm0bL_mMfmVFJSr-uFiLVbpTaN4QVOLqJcLX9PFvWxald_w2.jpg" group-title="UK Sports", A TNT Sport 1 HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_ASp9muTDQMyC2e-g8vmKO/ts
+#EXTINF:-1 tvg-name="A TNT Sport 1 SD" tvg-id="BTSP1HD" tvg-logo="https://wedontlikepubliceyes22.me:443/images/QIJDGRUBUEYTs6O3My3Uydj3CtEXyP8qEdsMa7VRLj_llgLaYojXGGHcTC6nOwfbGf6MDzrE_fjNRdUqyIEnoQkwzdct8vpHp2p0snIMVah8mC7HFrYtMKgjKq7aeyGCL1WuefIuopyaVrErGm0bL_mMfmVFJSr-uFiLVbpTaN4QVOLqJcLX9PFvWxald_w2.jpg" group-title="UK Sports", A TNT Sport 1 SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8uM6ju1H33nIDdf-ioMURu/ts
+#EXTINF:-1 tvg-name="F TNT Sport 1 HD" tvg-id="btsport1.uk" tvg-logo="https://archive.org/download/BtSport1Hd_201708/bt%20sport%201%20hd.png" group-title="UK Sports", F TNT Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11243
+#EXTINF:-1 tvg-name="F TNT Sport 1 SD" tvg-id="btsport1.uk" tvg-logo="https://archive.org/download/BtSport1/bt%20sport%201.png" group-title="UK Sports", F TNT Sport 1 SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11246
+#EXTINF:-1 tvg-name="L TNT Sport 2 HD" tvg-id="BTSP2HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrbnNqbgSmPjNUZqJQsU6xJGcTkj5dv73TAwSF9YmMUkAgW2kYSplgXgiVzd6TANOQQ.png" group-title="UK Sports", L TNT Sport 2 HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VvqpXRFv0d1E1z1IS4FNHTp6AryAuClwMDCUt_EMfJAT
+#EXTINF:-1 tvg-name="L TNT Sport 2 SD" tvg-id="BTSPOR2" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrSVAsUUCjWaNU9TO0iH5v-1L_v7O7kmtNMA80uFTPaH9kkMy-Lj07B1hc46nEzd1FQ.png" group-title="UK Sports", L TNT Sport 2 SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xoid37aP7LO50bT_iFltnsi
+#EXTINF:-1 tvg-name="A TNT Sport 2 HD" tvg-id="BTSP2HD" tvg-logo="https://wedontlikepubliceyes22.me:443/images/QIJDGRUBUEYTs6O3My3Uydj3CtEXyP8qEdsMa7VRLj_llgLaYojXGGHcTC6nOwfbGf6MDzrE_fjNRdUqyIEnoQkwzdct8vpHp2p0snIMVah8mC7HFrYtMKgjKq7aeyGCL1WuefIuopyaVrErGm0bL_mMfmVFJSr-uFiLVbpTaN4QVOLqJcLX9PFvWxald_w2.jpg" group-title="UK Sports", A TNT Sport 2 HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_ASp9muTDQMyC2e-g8vmKO/ts
+#EXTINF:-1 tvg-name="A TNT Sport 2 SD" tvg-id="BTSPOR2" tvg-logo="https://wedontlikepubliceyes22.me:443/images/QIJDGRUBUEYTs6O3My3Uydj3CtEXyP8qEdsMa7VRLj_llgLaYojXGGHcTC6nOwfbGf6MDzrE_fjNRdUqyIEnoQkwzdct8vpHp2p0snIMVah8mC7HFrYtMKgjKq7aeyGCL1WuefIuopyaVrErGm0bL_mMfmVFJSr-uFiLVbpTaN4QVOLqJcLX9PFvWxald_w2.jpg" group-title="UK Sports", A TNT Sport 2 SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8uM6ju1H33nIDdf-ioMURu/ts
+#EXTINF:-1 tvg-name="F TNT Sport 2 HD" tvg-id="btsport2.uk" tvg-logo="https://archive.org/download/BtSport2Hd/bt%20sport%202%20hd.png" group-title="UK Sports", F TNT Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11243
+#EXTINF:-1 tvg-name="F TNT Sports 2 SD" tvg-id="btsport2.uk" tvg-logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png" group-title="UK Sports", F TNT Sport 2 SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11246
+#EXTINF:-1 tvg-name="L TNT Sport 3 HD" tvg-id="BTSP3HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrSVAsUUCjWaNU9TO0iH5v-17IauvwrBP1QWi3A3y609RVSouYmZArCyA7n9z3IJBcg.png" group-title="UK Sports", L TNT Sport 3 HD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VvqpXRFv0d1E1z1IS4FNHTp6AryAuClwMDCUt_EMfJAT
+#EXTINF:-1 tvg-name="L TNT Sport 3 SD" tvg-id="BTSP3HD" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrSVAsUUCjWaNU9TO0iH5v-17IauvwrBP1QWi3A3y609RVSouYmZArCyA7n9z3IJBcg.png" group-title="UK Sports", L TNT Sport 3 SD
+http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xoid37aP7LO50bT_iFltnsi
+#EXTINF:-1 tvg-name="A TNT Sport 3 HD" tvg-id="BTSP3HD" tvg-logo="https://wedontlikepubliceyes22.me:443/images/QIJDGRUBUEYTs6O3My3Uydj3CtEXyP8qEdsMa7VRLj_llgLaYojXGGHcTC6nOwfbGf6MDzrE_fjNRdUqyIEnoQkwzdct8vpHp2p0snIMVah8mC7HFrYtMKgjKq7aeyGCL1WuefIuopyaVrErGm0bL_mMfmVFJSr-uFiLVbpTaN4QVOLqJcLX9PFvWxald_w2.jpg" group-title="UK Sports", A TNT Sport 3 HD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P_ASp9muTDQMyC2e-g8vmKO/ts
+#EXTINF:-1 tvg-name="A TNT Sport 3 SD" tvg-id="BTSP3HD" tvg-logo="https://wedontlikepubliceyes22.me:443/images/QIJDGRUBUEYTs6O3My3Uydj3CtEXyP8qEdsMa7VRLj_llgLaYojXGGHcTC6nOwfbGf6MDzrE_fjNRdUqyIEnoQkwzdct8vpHp2p0snIMVah8mC7HFrYtMKgjKq7aeyGCL1WuefIuopyaVrErGm0bL_mMfmVFJSr-uFiLVbpTaN4QVOLqJcLX9PFvWxald_w2.jpg" group-title="UK Sports", A TNT Sport 3 SD
+https://anovanatho.com:443/play/_dthI68MGlV5BHpeZGSotCwC0zpR3ee9XHJX2T6k8P8uM6ju1H33nIDdf-ioMURu/ts
+#EXTINF:-1 tvg-name="F TNT Sport 3 HD" tvg-id="btsport3.uk" tvg-logo="https://archive.org/download/BtSport3Hd/bt%20sport%203%20hd.png" group-title="UK Sports", F TNT Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11243
+#EXTINF:-1 tvg-name="F TNT Sport 3 SD" tvg-id="btsport3.uk" tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" group-title="UK Sports", F TNT Sport 3 SD
+#EXTVLCOPT:network-caching=1000
+http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/11246
+#EXTINF:-1 channel-id="mjh-trackside-1" tvg-id="mjh-trackside-1" tvg-logo="https://i.mjh.nz/.images/trackside-1.png" tvg-chno="62" group-title="NZ Sport" , TAB Trackside 1
+https://i.mjh.nz/trackside-1.m3u8
+#EXTINF:-1 channel-id="mjh-trackside-2" tvg-id="mjh-trackside-2" tvg-logo="https://i.mjh.nz/.images/trackside-2.png" tvg-chno="63" group-title="NZ Sport" , TAB Trackside 2
+https://i.mjh.nz/trackside-2.m3u8
+#EXTINF:-1 tvg-id="mtv.nz" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="Music", MTV NZ
+http://10.1.3.199:8001/1:0:19:40F:B:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-id="mtv.music.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Music", MTV 80s NZ
+http://10.1.3.199:8001/1:0:16:498:B:A9:6400000:0:0:0:
+#EXTINF:-1 tvg-name="Crown Hill Driveway" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Driveway
+http://10.1.2.38:10000/h264/CHCDriveway/temp.ts
+#EXTINF:-1 tvg-id="Crown Hill Cottage Driveway" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Cottage Driveway
+http://10.1.2.38:10000/h264/CHCFront/temp.ts
+#EXTINF:-1 tvg-id="Crown Hill Garden" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Garden
+http://10.1.2.38:10000/h264/CHCGarden/temp.ts
+#EXTINF:-1 tvg-id="Crown Hill Kitchen Camera" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Kitchen Camera
+http://10.1.2.38:10000/h264/CHCDrive/temp.ts
+#EXTINF:-1 tvg-id="Crown Hill Alex Bedroom" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Alex Bedroom
+http://10.1.2.38:10000/h264/CHCAlex/temp.ts
+#EXTINF:-1 tvg-id="Crown Hill Swimming Pool" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Swimming Pool
+http://10.1.2.38:10000/h264/CHSwimPool/temp.ts
+#EXTINF:-1 tvg-id="Crown Hill Swimming Pool Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Swimming Pool Alt
+rtsp://admin:Fnys0644@10.10.2.127
+#EXTINF:-1 tvg-id="Minden Main Gate" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Main Gate
+http://10.1.2.38:10000/h264/MindenMainGate/temp.ts
+#EXTINF:-1 tvg-id="Minden Main Gate Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Main Gate Alt
+rtsp://10.1.2.127:554/h264_stream
+#EXTINF:-1 tvg-id="Minden PTZ" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden PTZ
+http://10.1.2.38:10000/h264/PTZ/temp.ts
+#EXTINF:-1 tvg-id="Minden PTZ Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden PTZ Alt
+rtsp://admin:Fnys0644@10.1.2.195:554
+#EXTINF:-1 tvg-id="Minden Back Gate" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Back Gate
+http://10.1.2.38:10000/h264/BackGate/temp.ts
+#EXTINF:-1 tvg-id="Minden Back Gate Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Back Gate Alt
+rtsp://admin:Fnys0644@10.1.2.159:554/main
+#EXTINF:-1 tvg-id="Minden Front Door" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Front Door
+http://10.1.2.38:10000/h264/FrontDoor/temp.ts
+#EXTINF:-1 tvg-id="Minden Front Door Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Front Door Alt
+rtsp://10.1.2.130:554/h264_stream
+#EXTINF:-1 tvg-id="Minden Top Driveway" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Top Driveway
+http://10.1.2.38:10000/h264/MindenTopDrive/temp.ts
+#EXTINF:-1 tvg-id="Minden Top Driveway Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Top Driveway Alt
+rtsp://admin:Fnys0644@10.1.2.132:554/main
+#EXTINF:-1 tvg-id="Minden Upper Driveway" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Upper Driveway
+http://10.1.2.38:10000/h264/UpperDrive/temp.ts
+#EXTINF:-1 tvg-id="Minden Upper Driveway Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Upper Driveway Alt
+rtsp://admin:Fnys0644@10.1.2.153:554
+#EXTINF:-1 tvg-id="Minden Lower Driveway" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Lower Driveway
+http://10.1.2.38:10000/h264/LowerDrive/temp.ts
+#EXTINF:-1 tvg-id="Minden Lower Driveway Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Lower Driveway Alt
+rtsp://admin:Fnys0644@10.1.2.154:554
+#EXTINF:-1 tvg-id="Minden Side Lawn" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Side Lawn
+http://10.1.2.38:10000/h264/SideLawn/temp.ts
+#EXTINF:-1 tvg-id="Minden Side Lawn Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Side Lawn Alt
+rtsp://admin:Fnys0644@10.1.2.83:554
+#EXTINF:-1 tvg-id="Minden Swimming Pool" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Swimming Pool
+http://10.1.2.38:10000/h264/SwimPool/temp.ts
+#EXTINF:-1 tvg-id="Minden Swimming Pool Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Swimming Pool Alt
+rtsp://admin:Fnys0644@10.1.2.84:554
+#EXTINF:-1 tvg-id="Minden Garage" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Garage
+http://10.1.2.38:10000/h264/MindenGarage/temp.ts
+#EXTINF:-1 tvg-id="Minden Garage Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Garage Alt
+rtsp://Xm472C7UZWMr:Od8LVeobA3to@10.1.2.196/live0
+#EXTINF:-1 tvg-id="Minden Keira Room" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Keira Room
+http://10.1.2.38:10000/h264/Keira/temp.ts
+#EXTINF:-1 tvg-id="Minden Alex Room" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Alex Room
+http://10.1.2.38:10000/h264/Alex/temp.ts
+#EXTINF:-1 tvg-id="Weather" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Weather
+http://10.1.2.38:10000/h264/Weather/temp.ts
+#EXTINF:-1 tvg-id="All Cameras" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", All Cameras
+http://10.1.2.38:10000/h264/AllCameras/temp.ts
