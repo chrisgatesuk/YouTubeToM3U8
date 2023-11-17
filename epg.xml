@@ -515,45 +515,45 @@
     <desc lang="en">#livenews #news #breakingnews #abcnews ABC News Live is ABC News’ award-winning 24/7 streaming news channel with live coverage as news breaks, up-to- the-min...</desc>
     <icon src="https://i.ytimg.com/vi/OOtxXPaQvoM/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="cnbc.us">
+  <channel id="CNBCWorld.us">
     <display-name lang="en">CNBC</display-name>
   </channel>
-  <programme channel="cnbc.us" start="20231117040000 +0000" stop="20231117070000 +0000">
+  <programme channel="CNBCWorld.us" start="20231117040000 +0000" stop="20231117070000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="cnbc.us" start="20231117070000 +0000" stop="20231117100000 +0000">
+  <programme channel="CNBCWorld.us" start="20231117070000 +0000" stop="20231117100000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="cnbc.us" start="20231117100000 +0000" stop="20231117130000 +0000">
+  <programme channel="CNBCWorld.us" start="20231117100000 +0000" stop="20231117130000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="cnbc.us" start="20231117130000 +0000" stop="20231117160000 +0000">
+  <programme channel="CNBCWorld.us" start="20231117130000 +0000" stop="20231117160000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="cnbc.us" start="20231117160000 +0000" stop="20231117190000 +0000">
+  <programme channel="CNBCWorld.us" start="20231117160000 +0000" stop="20231117190000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="cnbc.us" start="20231117190000 +0000" stop="20231117220000 +0000">
+  <programme channel="CNBCWorld.us" start="20231117190000 +0000" stop="20231117220000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="cnbc.us" start="20231117220000 +0000" stop="20231118010000 +0000">
+  <programme channel="CNBCWorld.us" start="20231117220000 +0000" stop="20231118010000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="cnbc.us" start="20231118010000 +0000" stop="20231118040000 +0000">
+  <programme channel="CNBCWorld.us" start="20231118010000 +0000" stop="20231118040000 +0000">
     <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
     <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
     <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault_live.jpg"/>
