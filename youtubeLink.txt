@@ -36,13 +36,13 @@ https://www.youtube.com/watch?v=wIfguhaysvo
 Sky News || SkyNews.yt || News
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-Al Jazeera English || AlJazeera.yt || News
+Al Jazeera English || mjh-al-jazeera || News
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-ABC News (US) || ABCNewsUS || News
+ABC News (US) || ABCWABC.us || News
 https://www.youtube.com/watch?v=OOtxXPaQvoM
 
-CNBC Marathon || cnbc.us || News
+CNBC || cnbc.us || News
 https://www.youtube.com/watch?v=9NyxcX3rhQs
 
 Bloomberg Global || bloombergtv.us || News
@@ -54,23 +54,23 @@ https://www.youtube.com/watch?v=tkDUSYHoKxE
 DW News || DWNews.yt || News
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-ABC News (AU) || ABCWABC.us ||  News
+ABC News (AU) || US: ABC NEWS HD ||  News
 https://www.youtube.com/watch?v=vOTiJkg1voo
 
 Euronews || EuronewsEN.yt || News
 https://www.youtube.com/watch?v=pykpO5kQJ98
 
-TRT World || trtworldhd.uk	 || News
+TRT World || trtworldhd.uk || News
 https://www.youtube.com/watch?v=5VF4aor94gw
 
 NDTV 24x7 || NDTV.yt || News
 https://www.youtube.com/watch?v=Nen3UXaWDDE
 
-CNA || CNA.yt || News
+CNA || mjh-channel-news-asia || News
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 NHK World Japan || nhkworldhd.uk || News
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
-KBS KOREA Live || KBSKorea.yt || News
+KBS Korea Live || KBSKorea.yt || News
 https://www.youtube.com/watch?v=OxQQsIvJTTU
