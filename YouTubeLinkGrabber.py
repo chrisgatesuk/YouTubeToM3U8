@@ -182,7 +182,7 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.3.206:8001/1:0:19:4B4:A:A9:6400000:0:0:0:')
     print('#EXTINF:-1 tvg-name="NZ: Sky Sport 9" tvg-id="NZ: SKY SPORT 9" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport 9')
     print('http://10.1.3.203:8001/1:0:19:4C1:2:A9:6400000:0:0:0:')
-    print('#EXTINF:-1 tvg-name="NZ: Sky Sport Select" tvg-id="NZ: SKY SPORT SELECT" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="NZ Sport", NZ Sky Sport Select')
+    print('#EXTINF:-1 tvg-name="NZ: Sky Sport Select" tvg-id="NZ: SKY SPORT SELECT" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_news.png" group-title="NZ Sport", NZ Sky Sport Select')
     print('http://10.1.3.199:8001/1:0:19:4DC:B:A9:6400000:0:0:0:')
     print('#EXTINF:-1 tvg-id="sky.sport.popup.1.nz" tvg-logo="https://icdb.tv/images/490e8bd314a2b6fb3b0d4fea0351b61a.jpg" group-title="NZ Sport", NZ Sky Sport Pop-Up 1 *')
     print('http://10.1.3.202:8001/1:0:19:3F1:4:A9:6400000:0:0:0:')
