@@ -447,8 +447,8 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.2.38:10000/h264/Weather/temp.ts')
     print('#EXTINF:-1 tvg-id="All Cameras" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", All Cameras')
     print('http://10.1.2.38:10000/h264/AllCameras/temp.ts')
-    print('#EXTINF:-1 tvg-id="Weather" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Weather')
-    print('http://80.82.76.70:80/play/LGO1T4U-pLMTDDIkXXA1VqBc2PMOIjfa3LkIYKDSdvE1C6zE-cbeikmb4WCk4jhA)'
+    print('#EXTINF:-1 tvg-id="WG" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="Other", Other')
+    print('http://80.82.76.70:80/play/LGO1T4U-pLMTDDIkXXA1VqBc2PMOIjfa3LkIYKDSdvE1C6zE-cbeikmb4WCk4jhA')
     f.close()
 
 # Remove temp files from project dir
