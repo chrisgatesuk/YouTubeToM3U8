@@ -461,6 +461,8 @@ with open('epg.xml', 'wb') as f:
     print('https://www.youtube.com/watch?v=If9qQ4XgabY')
     print('#EXTINF:-1 tvg-id="Laurel And Hardy Mix 2" group-title="Music", Laurel And Hardy Mix 2')
     print('https://www.youtube.com/embed/BXp5HAqRaxI?si=LcdAJGtBM-M23ERa')
+    print('#EXTINF:-1 tvg-id="Laurel And Hardy Mix 3" group-title="Music", Laurel And Hardy Mix 3')
+    print('https://drive.google.com/file/d/13sjkYdweFj7TUZsIp2ky540IoABIUM_a/view?usp=sharing')
     f.close()
 
 # Remove temp files from project dir
