@@ -449,6 +449,18 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.2.38:10000/h264/AllCameras/temp.ts')
     print('#EXTINF:-1 tvg-id="WG" group-title="Other", Other')
     print('http://80.82.76.70:80/play/LGO1T4U-pLMTDDIkXXA1VqBc2PMOIjfa3LkIYKDSdvE1C6zE-cbeikmb4WCk4jhA')
+    print('#EXTINF:-1 tvg-id="Rick Astley Mash Up" group-title="Music", Rick Astley Mash Up')
+    print('https://www.youtube.com/watch?v=oT3mCybbhf0&list=RDQMjViamB7LlcY&start_radio=1')
+    print('#EXTINF:-1 tvg-id="Eye Of The Tiger Rolling In The Deep" group-title="Music", Eye Of The Tiger Rolling In The Deep')
+    print('https://www.youtube.com/watch?v=JyQtmPmX0c0')
+    print('#EXTINF:-1 tvg-id="Fat Bottommed Girls Sweet Home Alabama" group-title="Music", Fat Bottommed Girls Sweet Home Alabama')
+    print('https://www.youtube.com/watch?v=IsKfdrWqW08')
+    print('#EXTINF:-1 tvg-id="Avicii Men At Work" group-title="Music", Avicii Men At Work')
+    print('https://www.youtube.com/watch?v=byl0BLtO7UE')
+    print('#EXTINF:-1 tvg-id="Laurel And Hardy Mix 1" group-title="Music", Laurel And Hardy Mix 1')
+    print('https://www.youtube.com/watch?v=If9qQ4XgabY')
+    print('#EXTINF:-1 tvg-id="Laurel And Hardy Mix 2" group-title="Music", Laurel And Hardy Mix 2')
+    print('https://www.youtube.com/watch?v=BXp5HAqRaxI')
     f.close()
 
 # Remove temp files from project dir
