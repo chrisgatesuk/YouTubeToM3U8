@@ -477,7 +477,7 @@ with open('epg.xml', 'wb') as f:
     print('https://drive.google.com/uc?export=download&id=1kSqD3lTtY6dribeu7k0roSBDRsXh8WSE')
     print('#EXTINF:-1 tvg-id="Boney M Vs LMFAO - Daddy Cool Mashup" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Boney M Vs LMFAO - Daddy Cool Mashup')
     print('https://drive.google.com/uc?export=download&id=1e6z69eg7XkaIcqGfO4G72Qflxx3lgD8L')
-    print('#EXTINF:-1 tvg-id="Bee Gees - Stayin' Alive (Delabella Remix)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Bee Gees - Stayin' Alive (Delabella Remix)')
+    print('#EXTINF:-1 tvg-id="Bee Gees - Stayin Alive (Delabella Remix)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Bee Gees - Stayin Alive (Delabella Remix)')
     print('https://drive.google.com/uc?export=download&id=1JADw-vnFEuRjA2NNhSXC0Pz0auN3Fm_z')
     print('#EXTINF:-1 tvg-id="John Denver - Take Me Home, Country Roads (Jesse Bloch Bootleg)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", John Denver - Take Me Home, Country Roads (Jesse Bloch Bootleg)')
     print('https://drive.google.com/uc?export=download&id=1mwOU1cOkcxK6pZIO_jmCOB4vgr0HV6IV')
