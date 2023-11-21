@@ -477,6 +477,19 @@ with open('epg.xml', 'wb') as f:
     print('https://drive.google.com/uc?export=download&id=1kSqD3lTtY6dribeu7k0roSBDRsXh8WSE')
     print('#EXTINF:-1 tvg-id="Boney M Vs LMFAO - Daddy Cool Mashup" group-title="Music", Boney M Vs LMFAO - Daddy Cool Mashup')
     print('https://drive.google.com/uc?export=download&id=1e6z69eg7XkaIcqGfO4G72Qflxx3lgD8L')
+    print('#EXTINF:-1 tvg-id="Bee Gees - Stayin' Alive (Delabella Remix)" group-title="Music", Bee Gees - Stayin' Alive (Delabella Remix)')
+    print('https://drive.google.com/uc?export=download&id=1JADw-vnFEuRjA2NNhSXC0Pz0auN3Fm_z')
+    print('#EXTINF:-1 tvg-id="John Denver - Take Me Home, Country Roads (Jesse Bloch Bootleg)" group-title="Music", John Denver - Take Me Home, Country Roads (Jesse Bloch Bootleg)')
+    print('https://drive.google.com/uc?export=download&id=1mwOU1cOkcxK6pZIO_jmCOB4vgr0HV6IV')
+    print('#EXTINF:-1 tvg-id="Dance Rock Mashup" group-title="Music", Dance Rock Mashup')
+    print('https://drive.google.com/uc?export=download&id=13Q4iT1lX8QzRwpIPeKl5U37AEyNt-QeD')
+    print('#EXTINF:-1 tvg-id="Old Movie Stars Dance To Uptown Funk" group-title="Music", Old Movie Stars Dance To Uptown Funk')
+    print('https://drive.google.com/uc?export=download&id=1vIi34d0LKI8xQ4is5bg7_O8GxLeE2nfi')
+    print('#EXTINF:-1 tvg-id="Dancing On The Ceiling - An Old School Mash Up" group-title="Music", Dancing On The Ceiling - An Old School Mash Up')
+    print('https://drive.google.com/uc?export=download&id=1xc6rmsNHTYJwiT5EoE9MSHBDsQFykZ3H')
+    print('#EXTINF:-1 tvg-id="Stayin Alive In The Wall" group-title="Music", Stayin Alive In The Wall')
+    print('https://drive.google.com/uc?export=download&id=1953VWEBeubBNfYapx7HU5Ay585qD_I-Q')
+
     f.close()
 
 # Remove temp files from project dir
