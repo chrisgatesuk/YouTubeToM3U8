@@ -489,6 +489,18 @@ with open('epg.xml', 'wb') as f:
     print('https://drive.google.com/uc?export=download&id=1xc6rmsNHTYJwiT5EoE9MSHBDsQFykZ3H')
     print('#EXTINF:-1 tvg-id="Stayin Alive In The Wall" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Stayin Alive In The Wall')
     print('https://drive.google.com/uc?export=download&id=1953VWEBeubBNfYapx7HU5Ay585qD_I-Q')
+    print('#EXTINF:-1 tvg-id="Ghostsaxters Mash Up" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Ghostsaxters Mash Up')
+    print('https://drive.google.com/uc?export=download&id=1YiOqqSb5iCus90e8G_muKrgIbXxheeAp')
+    print('#EXTINF:-1 tvg-id="Blame It On The Mashup" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Blame It On The Mashup')
+    print('https://drive.google.com/uc?export=download&id=1uR3l8k5Pa-7C000h3hNLVlDRQwhls_f2')
+    print('#EXTINF:-1 tvg-id="Im Blue Vs We Found Love - Extended Mashup" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Im Blue Vs We Found Love - Extended Mashup')
+    print('https://drive.google.com/uc?export=download&id=1ZvKc4StSdcKGCqTruqaZqNiZx7X6z_a4')
+    print('#EXTINF:-1 tvg-id="Queen, Rick Astley, Michael Jackson, Bee Gees, Chic And More Mash Up" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Queen, Rick Astley, Michael Jackson, Bee Gees, Chic And More Mash Up')
+    print('https://drive.google.com/uc?export=download&id=1ymwxdFCl2klGmsCoV10aqf6kYkcbyLo9')
+    print('#EXTINF:-1 tvg-id="Blur Vs Wham Vs Rihanna" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Blur Vs Wham Vs Rihanna')
+    print('https://drive.google.com/uc?export=download&id=192EkblBkZnQ0XZfA1WgUOB6fbLCr9z73')
+
+    
     f.close()
 
 # Remove temp files from project dir
