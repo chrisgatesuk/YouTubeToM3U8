@@ -499,8 +499,6 @@ with open('epg.xml', 'wb') as f:
     print('https://drive.google.com/uc?export=download&id=1ymwxdFCl2klGmsCoV10aqf6kYkcbyLo9')
     print('#EXTINF:-1 tvg-id="Blur Vs Wham Vs Rihanna" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Blur Vs Wham Vs Rihanna')
     print('https://drive.google.com/uc?export=download&id=192EkblBkZnQ0XZfA1WgUOB6fbLCr9z73')
-
-    
     f.close()
 
 # Remove temp files from project dir
