@@ -306,6 +306,8 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.3.204:8001/1:0:16:4BC:D:A9:6400000:0:0:0:')
     print('#EXTINF:-1 tvg-id="sky.news.nz" tvg-logo="https://seeklogo.com/images/S/sky-news-australia-logo-252ABF9816-seeklogo.com.png" group-title="News", Sky News Australia')
     print('http://10.1.3.202:8001/1:0:16:3F9:1:A9:6400000:0:0:0:')
+    print('#EXTINF:-1 tvg-id="abc.news.buffalo" tvg-logo="https://nyheritage.org/sites/default/files/styles/collection_cover_extra/public/content/collection/covers/AnnualReport2.png_0.jpg" group-title="News", ABC News Buffalo')
+    print('https://content.uplynk.com/channel/7a8b777a12f646f7b38d917ec0301595.m3u8')
     print('http://0a895194.indifferent-project.net:2086/chrisgatesuk@hotmail.com/46dQ8dMl8e/662')
     print('#EXTINF:-1 tvg-name="L Sky Sports News HD" tvg-id="SSPONED" tvg-logo="http://tv.st:80/images/SvlCE3pU-C0TyF1rEXMsrXvSHr9IagKkIzvw6fDn0pi8MPxojb_5AIFaAx8tJ7QDElXMLO5FSgA_NcI_U1tcRw.png" group-title="News", L Sky Sports News HD')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1ViZx7W0M4RpOMy7Ulmon0xr3XBQeX3NFoC_RgQ_jgzcr")
