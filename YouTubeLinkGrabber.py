@@ -464,7 +464,7 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.2.38:10000/h264/Garage2/temp.ts')
     print('#EXTINF:-1 tvg-id="Minden Garage 2 Alt" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Minden Garage 2 Alt')
     print('rtsp://chrisgatesuk:Fnys1970@10.1.2.107:554/stream1')
-    print('#EXTINF:-1 tvg-id="Minden Keira Room" tvg-logo="https://drive.google.com/uc?export=download&id=1nolttZektZfoVrr53cYTGW-AEd5Q3xxG", Minden Keira Room')
+    print('#EXTINF:-1 tvg-id="Minden Keira Room" tvg-logo="https://drive.google.com/uc?export=download&id=1nolttZektZfoVrr53cYTGW-AEd5Q3xxG" group-title="CCTV", Minden Keira Room')
     print('http://10.1.2.38:10000/h264/Keira/temp.ts')
     print('#EXTINF:-1 tvg-id="Minden Alex Room" tvg-logo="https://drive.google.com/uc?export=download&id=1zkAucxHpzlkPCckxx_ZDs_Ofgsjl6qR5" group-title="CCTV", Minden Alex Room')
     print('http://10.1.2.38:10000/h264/Alex/temp.ts')
