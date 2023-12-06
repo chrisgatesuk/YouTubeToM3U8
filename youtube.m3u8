@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="GoodLifeRadio.yt" tvg-name="The Good Life Radio" group-title="Music", The Good Life Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831703/ei/t49vZZ6vKbWpsfIPzdGGmA4/ip/20.172.2.101/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz3NI0aFFOK8wFEZuAfFjz22Qv9LzrSHjD4UGg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgarczvbiBldRxg3KfFPduz_CA3GxRDrZ6jhfzUazasX8CIARlW1eVnCUvDdesxew-cLSt8_JAxUr6O7fQglupvz1y/file/index.m3u8
+https://www.youtube.com/watch?v=36YnV9STBqc
 
 #EXTINF:-1 tvg-id="DeepBlue.yt" tvg-name="Deep Blue Summer Mix" group-title="Music", Deep Blue Summer Mix
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831704/ei/uI9vZfemENXTsfIPoeahsA4/ip/20.172.2.101/id/U9w8zx49EcY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz-TC307pB69mLgsddQihCEy_MUkCTO0zWaFDg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAPico5WUStcvVBykeJMbKoJfRixQirFJACHEzR23axjmAiBM-ai1t4HsxsQH1PJdVQxZ2wwafoWHbAn51hy3H5ry_A%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=U9w8zx49EcY
 
 #EXTINF:-1 tvg-id="DeepHouse.yt" tvg-name="Deep House Ibiza" group-title="Music", Deep House Ibiza
 https://www.youtube.com/watch?v=toERvopNUSQ
@@ -13,13 +13,13 @@ https://www.youtube.com/watch?v=toERvopNUSQ
 https://www.youtube.com/watch?v=pHyuOefNcPM
 
 #EXTINF:-1 tvg-id="Winter2023.yt" tvg-name="Winter 2023" group-title="Music", Winter 2023
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831706/ei/uo9vZarEGYmYsfIPmeqL0AU/ip/20.172.2.101/id/IGm4ax2KVFE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2meVRMPPmrM6KYXO_mDc3ue2r9vFMBmasc0Kg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgQskArPpLl9MPtIzlE4DU_3uG7_exBp6AGHDFW6n7C9kCIECZeTAwgBwsszJ2pNEJ3wXb-ICucBAVoAJbiEeHMONn/file/index.m3u8
+https://www.youtube.com/watch?v=IGm4ax2KVFE
 
 #EXTINF:-1 tvg-id="DanceParty2023.yt" tvg-name="Dance Party 2023" group-title="Music", Dance Party 2023
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831707/ei/u49vZe7MA9iGsfIPmY2ewAw/ip/20.172.2.101/id/fpwx3tqvRg4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fxsJ2_z4CPW3pv4BN0pBUnun2T71-6lpcxjPYg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgWj3HCilCbVJW6GoU9Xl8_KAY6tFHBGJox0zfgYmzJwkCIGae4u_vH2vnqzKajtC25ZC2L6AiX8ebw1sNz_K8choQ/file/index.m3u8
+https://www.youtube.com/watch?v=fpwx3tqvRg4
 
 #EXTINF:-1 tvg-id="19880Hits.yt" tvg-name="Legend 1980 Hits" group-title="Music", Legend 1980 Hits
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831707/ei/u49vZertK_qXsfIPiMCHwA8/ip/20.172.2.101/id/de5ZbnpM6t4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f6BBa9tijBoH7iG-TvfpRL0Dj6N68XM-k2rBpA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgJxk7K39Cqqebgrs_apDD9bize2PftkD6Eb7tFqO60JYCIDYyhWJvOZVQe4vnLo2FEE3eFzYzRGY6zd3MEVVNaJX_/file/index.m3u8
+https://www.youtube.com/watch?v=de5ZbnpM6t4
 
 #EXTINF:-1 tvg-id="DanceDisco.yt" tvg-name="Dance Disco Songs" group-title="Music", Dance Disco Songs
 https://www.youtube.com/watch?v=trRULSjWZMc
@@ -28,46 +28,46 @@ https://www.youtube.com/watch?v=trRULSjWZMc
 https://www.youtube.com/watch?v=kdwRhfsaJp4
 
 #EXTINF:-1 tvg-id="MusicParty.yt" tvg-name="Music Party Mash Up" group-title="Music", Music Party Mash Up
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831709/ei/vY9vZd7uH6Lhir4P7JC_eA/ip/20.172.2.101/id/tQCbWESA5No.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-Y__CiYiu-CVNLyVDQfrtB4rqt947QTdHoGyA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472442/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAINLMOX8xtB8PxjQsWz69AmwVISEvuZRteoDQwQAZC5aAiAqCw7FrEBlyTd3nVlpbdG3u2gdatEKQNA5IjieTvkqwQ%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=tQCbWESA5No
 
 #EXTINF:-1 tvg-id="EuroDisco.yt" tvg-name="Euro Disco Mix" group-title="Music", Euro Disco Mix
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831710/ei/vo9vZb7_CaOwsfIPhMSHsAw/ip/20.172.2.101/id/tKs_HajM72g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2nOX5P3tJ1ML4ydJ1oA8ydS6LuHLRFyeCvU8w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAL87NH6sAuBdg2gE9iAZYE0ua1gce9gcD3xxpXU5WQFkAiEA6jqt7mcvmNl1ecBVmPMqPbw7bxn6RHBPg0f_ZOQWYvg%3D/file/index.m3u8
+https://www.youtube.com/watch?v=tKs_HajM72g
 
 #EXTINF:-1 tvg-id="ChristmasMix.yt" tvg-name="Christmas Mix" group-title="Music", Christmas Mix
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831710/ei/vo9vZZb9KY-WsfIPhoWh0Ao/ip/20.172.2.101/id/_wr883uDz18.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f8XZJ3QzngXrqT1XtEIYXFsSE2WJ3ZVtVH12Wg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgRTxOF6GaEhIEI2_abWcGxC4DV8Fq3BG_1Yv0KVSe990CID0qwH2IvBFD6F-i-jGqWAcy7T0kZyXd5U5HlG_L79qg/file/index.m3u8
+https://www.youtube.com/watch?v=_wr883uDz18
 
 #EXTINF:-1 tvg-id="Chillhop.yt" tvg-name="Chillhop Music" group-title="Music", Chillhop Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831711/ei/v49vZYOODJCWsfIP28-NwAo/ip/20.172.2.101/id/5yx6BWlEVcY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7SiVMc2hna4x_F9I620HQN2BbNxp1uCelzFV1HC53a31kci/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgOf-1ybxyPJIAIU7wU9NJ8d9qmMvSpnZPZDyLcWvofbMCIQC_wy_TzwhlNcwVHmTp-I9S9oHGgGNLnnx4gPAZe4QZag%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=5yx6BWlEVcY
 
 #EXTINF:-1 tvg-id="TOWR.yt" tvg-name="Tomorrowland" group-title="Music", Tomorrowland
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831711/ei/v49vZcj2NOSgsfIPo-abiAM/ip/20.172.2.101/id/wBgSH-CGPzg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fytfuTaUC8HAvBTA0tlq7P2epxb4uA_VoVBm5Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhALYAi1aE8cP_gjUC_YygLb4DjR_N0kIZ78gTpYPYw7LVAiAZJD6nsnEWl9BtAc4IZcrgiJ74stEMneUsd3heb3yMiw%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=wBgSH-CGPzg
 
 #EXTINF:-1 tvg-id="TokyoCafe.yt" tvg-name="Tokyo Cafe" group-title="Music", Tokyo Cafe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831712/ei/wI9vZaHMG6awsfIPwLKIsAs/ip/20.172.2.101/id/6uddGul0oAc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f48AdIlngBmCJePO_p3AdUWK305gBi2iNr2HHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgJHXfiZpCUpzLxdsyp0cw-qy81eToJWP-PG6hnavfmYYCICTg7NHYNFUvVm7joJbb7ddRIRl8x60qdwzxmuH7OH0z/file/index.m3u8
+https://www.youtube.com/watch?v=6uddGul0oAc
 
 #EXTINF:-1 tvg-id="RainyJazz.yt" tvg-name="Rainy Jazz" group-title="Music", Rainy Jazz
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831713/ei/wY9vZYSGA_6ZsfIPnsSOiAM/ip/20.172.2.101/id/DSGyEsJ17cI.456/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f157uMty3xkWXTfe4pjrzWwe599pdolC2ghXIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAKxnJzVBp1GViviykqBtfTJ2Uv5bOTN1cx6cxdXmaQxyAiEAjk6fezl73OTBzidc1fP5OTPvp-WOC6IGisJasrPpobw%3D/file/index.m3u8
+https://www.youtube.com/watch?v=DSGyEsJ17cI
 
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" group-title="News", Fox News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831713/ei/wY9vZeCAKf-b2_gPztGQyAQ/ip/20.172.2.101/id/3_-jZqsQqdk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_qyuGIJ2CI9nG_92EZA1sBb1Q4L6DCUsMxuFg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAILZ7VZj9XfyHokYGOyHMWjZYrcMlV7ugelE9WqtPHTuAiEAt6CGT5n34vuIRl9w9Ityl5mqcLW2z_Y9V2QojQKdFFw%3D/file/index.m3u8
+https://www.youtube.com/watch?v=3_-jZqsQqdk
 
 #EXTINF:-1 tvg-id="JazzCafeAmbience.yt" tvg-name="Jazz Cafe Ambience" group-title="Music", Jazz Cafe Ambience
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831714/ei/wo9vZazNG56QsfIPwPCT2AE/ip/20.172.2.101/id/AEKtQW93OVg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1sSFQD3liB7d_jmlQkzsjL2_alDQaJDR0xreg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAKSjGF3nvo44Zk8KLf9nYMaBfjtNRxuodUNDez1WHhYpAiEA41XzDP5MvNB2k2zWtPoHCdjDMH_kJBK7tm0WZDqQ8o0%3D/file/index.m3u8
+https://www.youtube.com/watch?v=AEKtQW93OVg
 
 #EXTINF:-1 tvg-id="NASALive.yt" tvg-name="NASA Starbase Live" group-title="Live", NASA Starbase Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831715/ei/w49vZeDDA-eGsfIPwcWH2Ag/ip/20.172.2.101/id/mhJRzQsLZGg.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f--JPXPhwTO8IHadLDdvIwpUQeVRzS6T70mMago2IgIBI5kL/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhANbQz37hvKkwluoOvtzwenW0MfLuBtdh8TSEyl6GghcNAiEA01dy56RjFleSgncVmCdEiaGz6e-du8gbU7_bZhIGqKo%3D/file/index.m3u8
+https://www.youtube.com/watch?v=mhJRzQsLZGg
 
 #EXTINF:-1 tvg-id="NASATV.yt" tvg-name="NASA TV" group-title="News", NASA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831715/ei/w49vZfj_IvDCsfIP4d-VkAo/ip/20.172.2.101/id/21X5lGlDOfg.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4ytMLhwEN1fUemCVGsod9oDaapYz1ev4dL5CQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgOAO1uzl1xbmIs37rsxtCsGKDdoWOA78HD2-oHQ1A4KACIQC4_LmfTEedYO-KiJSvhzvvct2FAmXZLytszGRMWCxE0A%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=21X5lGlDOfg
 
 #EXTINF:-1 tvg-id="SpaceStation.yt" tvg-name="International Space Station Live" group-title="Live", International Space Station Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831716/ei/xI9vZaG5B7GKsfIPv5-ziAg/ip/20.172.2.101/id/jPTD2gnZFUw.79/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6AJ3ZQIBJswO5B_xvfq-AMi0DCXSTAQSrJXXg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgDQqRQ4I--qoeNhOOXNijseYgxnjg2D413luWG3hBjgYCIFijQJf_3uEncluAmfX0XxSPWcm3yzS6iU9PZLxJUy-n/file/index.m3u8
+https://www.youtube.com/watch?v=jPTD2gnZFUw
 
 #EXTINF:-1 tvg-id="SpaceStationHD.yt" tvg-name="International Space Station Live HD" group-title="Live", International Space Station Live HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831716/ei/xI9vZYm7Lazelu8P1tu1gAY/ip/20.172.2.101/id/P9C25Un7xaM.45/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-CBJGfYJt7xpXpm00tgDX-gS-CsZuhbCBthoQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgPjzqeZmOMdgy8EueM1Iu0B02qXx9rp4T5NYvLBt8mTwCICo3xVkYK2Sc69TIxgCJTcRQP9Ui_vDRx0pFspG6IeyR/file/index.m3u8
+https://www.youtube.com/watch?v=P9C25Un7xaM
 
 #EXTINF:-1 tvg-id="ShibuyaScramble.yt" tvg-name="Shibuya Crossing Live Camera" group-title="Live", Shibuya Crossing Live Camera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831717/ei/xY9vZZeOFa-Q2_gP77WEIA/ip/20.172.2.101/id/3kPH7kTphnE.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6ry-d9OjooEvvTqL160YW1yKTuPUSOh_-oO-w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAPyBMVk7bdevXe_rvDkjIzcYubmCgDIp1KXbQc1-d-5cAiACDmGeXNtSZ9sV_y-nNfOjmf-cwfupff4Amz7FmeMEZA%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=3kPH7kTphnE
 
 #EXTINF:-1 tvg-id="PeppaPig.yt" tvg-name="Peppa Pig Non-Stop" group-title="Kids", Peppa Pig Non-Stop
 https://www.youtube.com/watch?v=kfgtlUEMfds
@@ -76,13 +76,13 @@ https://www.youtube.com/watch?v=kfgtlUEMfds
 https://www.youtube.com/watch?v=hy2Ld-AXFgE
 
 #EXTINF:-1 tvg-id="SkyNews.yt" tvg-name="Sky News" group-title="News", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831720/ei/yI9vZfnNNKe1sfIPoOyy8A8/ip/20.172.2.101/id/9Auq9mYxFEE.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f2E72H52uXA4mwdk1G-7WX34-GxKKVm2P_ut_Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAMzge6ND7gOiP7BeT9N7qe1K59WArZU9eJvzm6bRrf7ZAiAKLE75uUD2tB0L2H0_dTICb0Of-P97zGp-p4zX5wz_QQ%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831721/ei/yY9vZfj5IrGpsfIPjtm2kAU/ip/20.172.2.101/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f33O9V91AaPq8wm7LpRP4QbSqYGLYyC4CIn05Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAO2ozm99eFegkskxAPkeDQW55M6f_oSJNxYwFFhTnuFnAiEA7_E-mqM_mJ7IN-wQCw20DfaY5y-ZlbjEAk7oq0AQ_pY%3D/file/index.m3u8
+https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 #EXTINF:-1 tvg-id="ABCWABC.yt" tvg-name="ABC News (US)" group-title="News", ABC News (US)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831722/ei/yo9vZdyrDoqVsfIPr4a14AQ/ip/20.172.2.101/id/OOtxXPaQvoM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6H5uQzadR3zUphPGEC1KDJ-oG4hIGUYRgW46A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAK24VCG24SST3fCmaDehBm0sS3mHQYve5HkvBd3dS35gAiEAgm-z32zfkFdJgRRaeFq6Z8vnpeNF4bw-9xkOXJuvico%3D/file/index.m3u8
+https://www.youtube.com/watch?v=OOtxXPaQvoM
 
 #EXTINF:-1 tvg-id="CBSNews.yt" tvg-name="CBS News (US)" group-title="News", CBS News (US)
 https://www.youtube.com/watch?v=MJG6zgENpWQ
@@ -94,43 +94,43 @@ https://www.youtube.com/watch?v=EAjQJ1GsyU0
 https://www.youtube.com/watch?v=ZX8WvEraSvY
 
 #EXTINF:-1 tvg-id="USAToday.yt" tvg-name="USA Today" group-title="News", USA Today
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831724/ei/zI9vZe3YL4G1sfIP-9eSyAc/ip/20.172.2.101/id/vZYMwAm8sso.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6n1IMhzAmKEyEvOOFnAzSlDY-xGfTCXa_rShA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgIu9NHUdZcfp-evmwX_y7QRnEGh1xrhhO1hszEFQtlS0CIBzxrWAPhBVwlQzWd_xJ5j2-tM08zOIDMjVIFLc_R77t/file/index.m3u8
+https://www.youtube.com/watch?v=vZYMwAm8sso
 
 #EXTINF:-1 tvg-id="ABC7.yt" tvg-name="ABC7 Eyewitness News LA" group-title="News", ABC7 Eyewitness News LA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831725/ei/zY9vZZuLFvCQsfIPobC94Ag/ip/20.172.2.101/id/-E0AHOOGo24.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7wZ59qUY2B3JzSmafxZu8I-ViqmiAs-kh4qAA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAKSFeJQAAbyCI2EsGS85hZlRmcKtpvVh5B_gRYDyfHNQAiEAri_qIczkDDZcAenF2BO_-fFFTLxrDv5UIUBQ7xrr5C0%3D/file/index.m3u8
+https://www.youtube.com/watch?v=-E0AHOOGo24
 
 #EXTINF:-1 tvg-id="cnbc.uk" tvg-name="CNBC" group-title="News", CNBC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831726/ei/zY9vZYbYOKqSsfIPlsqdwAQ/ip/20.172.2.101/id/9NyxcX3rhQs.191/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f37MALYrWBI6HO2CJV4Nt7Q0ccDbCQyrbHDQJw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgCihSjZ4SMsKN-QJ_5esoCoiT0rh0fXBwcaQNyhKVJbgCIQCCSUg45wNajNS_0kf76TLsps0Se_myGqZhtU6WuB-PPw%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=9NyxcX3rhQs
 
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="Bloomberg Global" group-title="News", Bloomberg Global
 https://www.youtube.com/watch?v=dp8PhLsUcFE
 
 #EXTINF:-1 tvg-id="France24En.yt" tvg-name="France 24 (English)" group-title="News", France 24 (English)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831726/ei/zo9vZbiRNY2isfIP4p6OmAo/ip/20.172.2.101/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5iLVi9kA-tIKxtwrczMhwW4k7clGzkc1IpAEB2tsDrlgdg8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgZztrHlASScUtl6yU9L9A-DBw8Nsovo9MUunXF6s_oY4CIQCTxy1SQWvlLBVbNaTJSlxSp_fbnSdDUmd2quN_1WMbqQ%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=tkDUSYHoKxE
 
 #EXTINF:-1 tvg-id="DWNews.yt" tvg-name="DW News" group-title="News", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831727/ei/z49vZdqGGvu-sfIP_puVgAU/ip/20.172.2.101/id/pqabxBKzZ6M.147/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy4FbpNTEMaRDjuHyBbkKTyX64yL7fsFRVcm_w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAOceCcb9X14Zjn97Hk2a2p97EGpTo7KP-HxKOmStQqf5AiAxFIrkGXTuyBEgX3E3se9JvLhERhMRLPwQk3yvhojQ0w%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=pqabxBKzZ6M
 
 #EXTINF:-1 tvg-id="US: ABC NEWS HD" tvg-name="ABC News (AU)" group-title="News", ABC News (AU)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831728/ei/0I9vZai7A8a_sfIP66W5yAU/ip/20.172.2.101/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f5SOEYmO7wKTebUe5PUJuzuivrN2RkC3iyagDVlCUYRayVXs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAKtIcVWESzXYFZw9U0C4xpGXk5r9ia3Uw9cSN4WgTcCgAiEAg3RB8no0Vhl6AT_Nkookf95EnT6m3eAbvFvnvEtmAQI%3D/file/index.m3u8
+https://www.youtube.com/watch?v=vOTiJkg1voo
 
 #EXTINF:-1 tvg-id="EuronewsEN.yt" tvg-name="Euronews" group-title="News", Euronews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831728/ei/0I9vZdeRJsuJsfIPu7eCoAE/ip/20.172.2.101/id/pykpO5kQJ98.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f7GpAnUb6wHgyJGz2WH32qNCrxAhrd6HtKPYYQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhALMrFHxqjOZYqx7sKpmDHK2a35Dg5WBJRMlI-FCm67spAiAfMaYFITBsJBF7jSgxCb9bYLWYpDoXNkcqXfDweTNN4A%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=pykpO5kQJ98
 
 #EXTINF:-1 tvg-id="trtworldhd.uk" tvg-name="TRT World" group-title="News", TRT World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831729/ei/0Y9vZbmLDpClsfIP9NyPqAQ/ip/20.172.2.101/id/5VF4aor94gw.55/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx6XJH2u-DTUccIgkcFTfAoYUv1akV4zn78u6WxLE2Q2Vw6E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAJdXuoKugb5yso4iGGPwqj3gOIE82d3mLlPg_2fF-LFEAiEA1Zhi5gmtIvNmXZ3Nk7Nkzj6klPy1BaZiaWeuioaHkW4%3D/file/index.m3u8
+https://www.youtube.com/watch?v=5VF4aor94gw
 
 #EXTINF:-1 tvg-id="NDTV.yt" tvg-name="NDTV 24x7" group-title="News", NDTV 24x7
 https://www.youtube.com/watch?v=Nen3UXaWDDE
 
 #EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="CNA" group-title="News", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831730/ei/0o9vZffIAsa-sfIP-ZCH4Ac/ip/20.172.2.101/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8iah83cqLKrb-se_paB9ifPXf4qq4faC0kZYA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAOw_9V4TNw2ra8u_J3ovJVxsW-LntFuG5_OZIgzVYPNJAiEAtfxNyMJERTYWAr7uGh-CU1pPuTwGRu9iN1lVvC6-hqI%3D/file/index.m3u8
+https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 #EXTINF:-1 tvg-id="nhkworldhd.uk" tvg-name="NHK World Japan" group-title="News", NHK World Japan
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831730/ei/0o9vZfHaJsqXsfIPt9uwmAU/ip/20.172.2.101/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyqMPWpTokT-oxRlFujliLoe0ZkTWFDMTbZ3ZQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAIDGeFW-Star0Pgxpdrr_74srylIcI3a3dNVAM98PeuEAiB5vVz-spd7E_9qWM05lTY_Ko4HHVGlqNK4oIbuieTZoA%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
 #EXTINF:-1 tvg-id="KBSKorea.yt" tvg-name="KBS Korea Live" group-title="News", KBS Korea Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701831731/ei/049vZeihDvTNsfIPj-SKqA8/ip/20.172.2.101/id/OxQQsIvJTTU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fzsoR38VgDtisNp3DHlmnFjN5IuvslADLsW7LQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAM8dr5o13w0SBWzRP-0NqSUdW_pSUJLIyKxlnvSLelZYAiEAhjdWiPg38eXka3Satbl2V7ZKhy2dlrEgTPjYH_CU1lc%3D/file/index.m3u8
+https://www.youtube.com/watch?v=OxQQsIvJTTU
 #EXTINF:-1 tvg-id="Sky Q Lounge" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf7399d70ccccacbd/616942290d172d03af6210c1/SKY-Q-.jpg" group-title="Video Capture", Sky Q Lounge
 rtmp://213.123.132.37:1936/
 #EXTINF:-1 tvg-id="Sky Q Attic" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf7399d70ccccacbd/616942290d172d03af6210c1/SKY-Q-.jpg" group-title="Video Capture", Sky Q Attic
