@@ -486,6 +486,8 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.2.38:10000/h264/AllCameras/temp.ts')
     print('#EXTINF:-1 tvg-id="WG" group-title="Other", Other')
     print('http://80.82.76.70:80/play/LGO1T4U-pLMTDDIkXXA1VqBc2PMOIjfa3LkIYKDSdvE1C6zE-cbeikmb4WCk4jhA')
+    print('#EXTINF:-1 tvg-id="Post Office" group-title="Other", Other')
+    print('https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705509660/ei/vK6nZbvDNezPz7sP8teigAw/ip/116.251.193.171/id/XRj5q8KZ8jE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/nz/siu/1/spc/UWF9f8_L5ziD1lpkQT6qnyXP6iTUkxTGdn4AL0Dt4zkOoXUd4LXjRRhx8xSr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANo2ba6tRrn5r8O15_s06BIvcec23znak4tJLOqkkdjJAiA33KG13_vgXmm94Zmm_UINzY4Z6WfZA2XRlCPl0wEgwQ%3D%3D/file/index.m3u8')
     print('#EXTINF:-1 tvg-id="Rick Astley Mash Up" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Rick Astley Mash Up')
     print('https://drive.google.com/uc?export=download&id=1HdmBDh84uMrDCPIXFm4qvKkvkc1U2nvW')
     print('#EXTINF:-1 tvg-id="Eye Of The Tiger Rolling In The Deep" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" group-title="Music", Eye Of The Tiger Rolling In The Deep')
