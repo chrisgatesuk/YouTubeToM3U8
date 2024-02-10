@@ -163,9 +163,9 @@ rtmp://213.123.132.37:1936/
 #EXTINF:-1 tvg-id="Sky Q Attic" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf7399d70ccccacbd/616942290d172d03af6210c1/SKY-Q-.jpg" group-title="Video Capture", Sky Q Attic
 rtmp://213.123.132.37:1935/
 #EXTINF:-1 tvg-id="Just Add Power Source Local" tvg-logo="https://avation.co.nz/wp-content/uploads/2017/06/Just_Add_Power.jpg" group-title="Video Capture", Just Add Power Source Local
-rtmp://10.1.2.117:1935
+rtmp://10.1.2.117:1936
 #EXTINF:-1 tvg-id="Just Add Power Source Remote" tvg-logo="https://avation.co.nz/wp-content/uploads/2017/06/Just_Add_Power.jpg" group-title="Video Capture", Just Add Power Source Remote
-rtmp://116.251.193.171:1935
+rtmp://116.251.193.171:1936
 #EXTINF:-1 tvg-id="House Shield Local" tvg-logo="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-horiz-500x200-2c50-d.png" group-title="Video Capture", House Shield Local
 rtmp://10.1.2.142:1935
 #EXTINF:-1 tvg-id="House Shield Remote"  tvg-logo="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-horiz-500x200-2c50-d.png" group-title="Video Capture", House Shield Remote
