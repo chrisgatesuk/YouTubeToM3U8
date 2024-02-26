@@ -267,7 +267,7 @@ with open('epg.xml', 'wb') as f:
     print('#EXTVLCOPT:network-caching=1000')
     print('http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/270')
     print('#EXTINF:-1 tvg-name="YT Sky News Audio Feed" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNews_201708/sky%20news.png" group-title="News", Sky News Audio Feed')
-    print('https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/09_hd30.m3u8')
+    print('https://ukradiolive.com/ldblncr/sky-news-radio/sky-news-radio')
     print('#EXTINF:-1 tvg-name="L BBC News HD" tvg-id="BBCNWHD" tvg-logo="http://80.82.76.70:80/images/SvlCE3pU-C0TyF1rEXMsrbnNqbgSmPjNUZqJQsU6xJFeoKkXT9h1Nrv1T74HQEbK_VXReq1lSG0Cfcp97LbTBg.png" group-title="News", L BBC News HD')
     print("http://litespeed.one:80/play/LGO1T4U-pLMTDDIkXXA1VoLqBQkUBKVjMpVsHC0Vd5PSr5pMQ7xE6ENGoWvQ52Po")
     print('#EXTINF:-1 tvg-name="L BBC News SD" tvg-id="BBCNEWS" tvg-logo="http://80.82.76.70:80/images/SvlCE3pU-C0TyF1rEXMsrTyNIvjGSoxS4X4W2wFRGMLrbpn9qFUC7YFSDLMkVKTwnn-1rNjQMYxmEqC3AnFqAQ.png" group-title="News", L BBC News SD')
