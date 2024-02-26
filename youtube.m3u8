@@ -76,13 +76,13 @@ https://www.youtube.com/watch?v=kfgtlUEMfds
 https://www.youtube.com/watch?v=pYCurDc3xas
 
 #EXTINF:-1 tvg-id="SkyNews.yt" tvg-name="Sky News" group-title="News", Sky News
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+https://youtu.be/w9uJg68CV4g
 
 #EXTINF:-1 tvg-id="SkyNewsAlt.yt" tvg-name="Sky News Alt" group-title="News", Sky News Alt
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708928890/ei/GtvbZdj7Bdin0_wP-eaIyAc/ip/20.51.198.172/id/w9uJg68CV4g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f5VfnjBmMOJHossHDsER4h0-zqmW3v-eLsqSB06NqUw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOUL56yBEL5TbNMqPFMa20r2gtsZ3xQQP0nEKGiEhj8jAiAGjH3WxJEK4ToPDBr80bQDho2sxh3auaNDhvKnFznicw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="PostOffice.yt" tvg-name="Post Office" group-title="News", Post Office
-https://www.youtube.com/watch?v=XRj5q8KZ8jE
+#EXTINF:-1 tvg-id="SkyNewsAlt2.yt" tvg-name="Sky News Alt 2" group-title="News", YT Sky News
+https://www.youtube.com/watch?v=w9uJg68CV4g&ab_channel=SkyNews
 
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708928891/ei/G9vbZaq_B7TFy_sPloSekAc/ip/20.51.198.172/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-zBQ_2a40ckMgs-xTMSroVT4CHG6c49tlnN-N2tWiE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJEgOyFLfhtD1KXRAhvNqR8myrF_hfalEcbepsrSxzHmAiEAob0-nVHoT-Yb_CuOgCEZrrOMwYu3Jt5y33s5fLZ3FRo%3D/file/index.m3u8
