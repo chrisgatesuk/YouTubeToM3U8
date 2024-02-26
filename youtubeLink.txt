@@ -82,13 +82,16 @@ Sky News || SkyNews.yt || News
 https://youtu.be/w9uJg68CV4g
 
 Sky News Alt || SkyNewsAlt.yt || News
-https://www.youtube.com/watch?v=w9uJg68CV4g
+https://www.youtube.com/watch?v=w9uJg68CV4g&feature=youtu.be
 
 Sky News Alt 2 || SkyNewsAlt2.yt || News
 https://www.youtube.com/embed/w9uJg68CV4g
 
 Al Jazeera English || mjh-al-jazeera || News
 https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+GB News || GBNews.yt || News
+https://www.youtube.com/watch?v=8WX6YL9JnLw
 
 ABC News (US) || ABCWABC.yt || News
 https://www.youtube.com/watch?v=OOtxXPaQvoM
