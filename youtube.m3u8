@@ -290,6 +290,8 @@ http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/2
 #EXTINF:-1 tvg-name="F Sky News SD" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNews_201708/sky%20news.png" group-title="News", F Sky News SD
 #EXTVLCOPT:network-caching=1000
 http://0a895194.indifferent-project.net:80/chrisgatesuk@hotmail.com/46dQ8dMl8e/270
+#EXTINF:-1 tvg-name="YT Sky News Feed" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNews_201708/sky%20news.png" group-title="News", YT Sky News Feed
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708927933/ei/XdfbZZ3nKJep3LUPp_6J4Aw/ip/116.251.193.171/id/w9uJg68CV4g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/nz/siu/1/spc/UWF9fyb_D1pFA8Tz2JaXyyK7bTvAeneMORHamI_oUUQDuD2teiedZWmip3Zj/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALLhixAMD31OvrxpmKB9y_NEClCE98H24BqSWmhpO4XzAiAhEW9KCUmLzwxgcbJZYFbg4xizLkq_z9qKka__syN4pw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="YT Sky News Audio Feed" tvg-id="skynews.uk" tvg-logo="https://archive.org/download/SkyNews_201708/sky%20news.png" group-title="News", Sky News Audio Feed
 https://ukradiolive.com/ldblncr/sky-news-radio/sky-news-radio
 #EXTINF:-1 tvg-name="L BBC News HD" tvg-id="BBCNWHD" tvg-logo="http://80.82.76.70:80/images/SvlCE3pU-C0TyF1rEXMsrbnNqbgSmPjNUZqJQsU6xJFeoKkXT9h1Nrv1T74HQEbK_VXReq1lSG0Cfcp97LbTBg.png" group-title="News", L BBC News HD
