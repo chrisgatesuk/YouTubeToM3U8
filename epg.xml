@@ -515,6 +515,49 @@
     <desc lang="en">Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module. The camera is looking forward ...</desc>
     <icon src="https://i.ytimg.com/vi/P9C25Un7xaM/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="SkyNews.yt">
+    <display-name lang="en">Sky News</display-name>
+  </channel>
+  <programme channel="SkyNews.yt" start="20240226000000 +0000" stop="20240226030000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SkyNews.yt" start="20240226030000 +0000" stop="20240226060000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SkyNews.yt" start="20240226060000 +0000" stop="20240226090000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SkyNews.yt" start="20240226090000 +0000" stop="20240226120000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SkyNews.yt" start="20240226120000 +0000" stop="20240226150000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SkyNews.yt" start="20240226150000 +0000" stop="20240226180000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SkyNews.yt" start="20240226180000 +0000" stop="20240226210000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SkyNews.yt" start="20240226210000 +0000" stop="20240227000000 +0000">
+    <title lang="en">Watch Sky News Live</title>
+    <desc lang="en">Watch Sky News: The deputy prime minister has refused to say on Sky News whether Lee Anderson is "racist" as he backed the decision to suspend him from the C...</desc>
+    <icon src="https://i.ytimg.com/vi/w9uJg68CV4g/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="SkyNewsAlt.yt">
     <display-name lang="en">Sky News Alt</display-name>
   </channel>
