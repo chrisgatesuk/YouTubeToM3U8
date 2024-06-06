@@ -198,6 +198,8 @@ with open('epg.xml', 'wb') as f:
     print('http://10.1.3.199:8001/1:0:19:40F:B:A9:6400000:0:0:0:')
     print('#EXTINF:-1 tvg-id="mtv.music.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Music", MTV 80s NZ')
     print('http://10.1.3.199:8001/1:0:16:498:B:A9:6400000:0:0:0:')
+    print('#EXTINF:-1 tvg-id="Everyday Astronaut" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Everyday_Astronaut_logo.png" group-title="Live", Everyday Astronaut')
+    print('https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717683677/ei/fXFhZrGsJ8a8juMPo_vo0Q4/ip/116.251.193.171/id/8VESowgMbjA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fylp6UgaC-DIlrb57sNV1cQMDYBrtE9L9ya03l-I15AokUpbXkjDxTFQP7UOaaijkIPYPKOx/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIllUwMARJuLh2KNOVFDMpzxzqlQE9Stmtb-HUcrn3QPAiAlnRR2jwQLRdyZpomc6kXflDYG3tQaGJgzGYNAfOo5kw%3D%3D/file/index.m3u8')
     print('#EXTINF:-1 tvg-name="Crown Hill Driveway" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Driveway')
     print('http://10.1.2.38:10000/h264/CHCDriveway/temp.ts')
     print('#EXTINF:-1 tvg-id="Crown Hill Cottage Driveway" tvg-logo="https://seeklogo.com/images/C/cctv-logo-D5D8D6E4E2-seeklogo.com.png" group-title="CCTV", Crown Hill Cottage Driveway')
