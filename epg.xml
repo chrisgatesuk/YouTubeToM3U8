@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="RainyJazz.yt">
+    <display-name lang="en">Rainy Jazz</display-name>
+  </channel>
+  <programme channel="RainyJazz.yt" start="20241017030000 +0100" stop="20241017060000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20241017060000 +0100" stop="20241017090000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20241017090000 +0100" stop="20241017120000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20241017120000 +0100" stop="20241017150000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20241017150000 +0100" stop="20241017180000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20241017180000 +0100" stop="20241017210000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20241017210000 +0100" stop="20241018000000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20241018000000 +0100" stop="20241018030000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+</tv>

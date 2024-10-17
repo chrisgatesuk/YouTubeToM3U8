@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=wBgSH-CGPzg
 https://www.youtube.com/watch?v=6uddGul0oAc
 
 #EXTINF:-1 tvg-id="RainyJazz.yt" tvg-name="Rainy Jazz" group-title="Music", Rainy Jazz
-https://www.youtube.com/watch?v=DSGyEsJ17cI
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729156449/ei/AIEQZ73mO-vxybgPr-mS2AM/ip/172.183.132.64/id/DSGyEsJ17cI.456/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54Mbxc39KxUbGQXoXKML4ZuOtTW72AsvhlH_mC7u296PJ5GRkIwtextrCWW4XeM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761%2C51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL5HEXAdqV3RQG3CEVYGkS6IBJ0zeHroSMqiIhyv3vCoAiEAwuh5N0ksAe7cOEvMrq5P6Q0hKwPLRzl7Xp9y_8-8tvs%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" group-title="News", Fox News
 https://www.youtube.com/watch?v=3_-jZqsQqdk
